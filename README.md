@@ -15,6 +15,6 @@ We are excited to have you with us. This documentation is for getting you fully 
 2. Join our Slack channel! You can do so [here](https://join.slack.com/t/developmental-s7f3137/shared_invite/zt-2odwli8w4-KRa0U6D_KXWjM1mGurqToQ).
 3. Take a look through StatLink by following [these steps](./docs/StatLinkRunthrough.md).
 4. Follow one of these links to get started in your new role:
-    - [Developer](#getting-started)
+    - [Developer](./docs/DeveloperOnboarding.md)
     - [Sales and Product Manager](#getting-started)
     - WIP... Need these to be legitimate links somewhere.
