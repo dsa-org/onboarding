@@ -19,3 +19,10 @@ The following are some links you may find helpful to follow before getting start
 - [Getting started with Python](https://code.visualstudio.com/docs/python/python-tutorial)
 - [How to set up a Django application](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
 - [Using DB SQLite Browser](https://datacarpentry.org/sql-socialsci/02-db-browser.html)
+
+## Next steps...
+
+When you are finished with the README steps and completed the above, reach out to `scott@dsa-labs.com` over email with the following request:
+
+- Subject: `StatLink GitHub Request`
+- Message: `Please invite me to the dsa and dsa-frontend repositories.`
