@@ -17,3 +17,4 @@ We are excited to have you with us. This documentation is for getting you fully 
 4. Follow one of these links to get started in your new role:
     - [Developer](#getting-started)
     - [Sales and Product Manager](#getting-started)
+    - WIP... Need these to be legitimate links somewhere.
