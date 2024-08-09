@@ -27,11 +27,11 @@ When you are finished with the README steps and completed the above, reach out t
 - Subject: `StatLink GitHub Request`
 - Message: `Please invite me to the dsa and dsa-frontend repositories.`
 
-Once you are given access to the repositories, you can start with these readmes:
+Once you are given access to the repositories, you can start onboarding to each of our applications:
 
 ### dsa
 
-Go to `/docs/TableOfContents.md`
+Go to `/docs/README.md`
 
 ### dsa-frontend
 
