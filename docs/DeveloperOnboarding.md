@@ -2,6 +2,12 @@
 
 # Developer onboarding
 
+## Join our Slack Channels
+
+- `#development-discussion`
+- `#development-staging`
+- `#development-new-issues`
+
 ## Tools
 
 - [VS Code](https://code.visualstudio.com/) is our preferred IDE.
