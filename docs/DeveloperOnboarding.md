@@ -22,7 +22,7 @@ The following are some links you may find helpful to follow before getting start
 
 ## Next steps...
 
-When you are finished with the README steps and completed the above, reach out to `scott@dsa-labs.com` over email with the following request:
+When you are finished with the README steps and completed the above, reach out to `bobby@dsa-labs.com` over email with the following request:
 
 - Subject: `StatLink GitHub Request`
 - Message: `Please invite me to the dsa and dsa-frontend repositories.`
