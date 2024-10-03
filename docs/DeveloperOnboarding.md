@@ -1,12 +1,24 @@
 [Return to README](../README.md)
 
-# Developer onboarding
+# Developer Onboarding
 
 ## Join our Slack Channels
 
 - `#development-discussion`
 - `#development-staging`
 - `#development-new-issues`
+- `#productdevelopment`
+
+## JIRA
+
+Email bobby@dsa-labs and CC scott@dsa-labs.com to request access to JIRA and the Kanban Board
+
+    - Subject: DSA Labs JIRA Access
+    - Message: Please invite me to the DSA Labs JIRA Project.
+
+## Standup Meetings
+
+Email scott@dsa-labs.com to be added to the M/W/F 12PM EST Standup calls. We also hold a Sprint Discussion every other Monday at 9:30AM EST. We use Google Calendar and Google Meet.
 
 ## Tools
 
