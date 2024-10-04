@@ -49,7 +49,7 @@ Email scott@dsa-labs.com to be added to the W/F 2PM EST Sales calls. We use Goog
 
 ## DSA Labs Sales Guide
 
-Visit and reference our [Sales Guide](./docs/SalesProductManagerOnboarding.pdf) regularly.
+Visit and reference our [Sales Guide](./SalesProductManagerOnboarding.pdf) regularly.
 
 ## Next steps...
 
