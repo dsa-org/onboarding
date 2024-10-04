@@ -16,5 +16,5 @@ We are excited to have you with us. This documentation is for getting you fully 
 3. Take a look through StatLink by following [these steps](./docs/StatLinkRunthrough.md).
 4. Follow one of these links to get started in your new role:
     - [Developer](./docs/DeveloperOnboarding.md)
-    - [Sales and Product Manager](./docs/SalesProductManagerOnboarding.pdf)
+    - [Sales and Product Manager](.docs/SalesProductManagerOnboarding.md)
     
