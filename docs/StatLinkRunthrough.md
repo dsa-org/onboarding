@@ -33,7 +33,7 @@
     - Upload a player photo
     - Fill out the entire Add Player form
 - ABOUT ME tab > Fill out all the sections in your player profile
-    - Summary, bio, contact details, career history, academic interests, upcoming events, upload a highilght videoo, etc.
+    - Summary, bio, contact details, career history, academic interests, upcoming events, upload a highilght video, etc.
 - Find the Share Profile Button
 	- Copy the URL and post it in a new tab to view your player's FlashStat
 	- SHARE WITH COLLEGES
