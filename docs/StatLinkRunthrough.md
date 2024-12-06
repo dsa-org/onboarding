@@ -1,15 +1,53 @@
 [Return to README](../README.md)
 
-# StatLink runthrough
+# StatLink - Basic Workflow of StatLink
+- If you encounter any confusion or questions during this workflow, take notes and reach out to Scott Krotee, Senior Product Manager, on Slack or at scott@dsa-labs.com
 
-First and foremost, we want you to get up to speed with our product. [Click here](https://www.statlink.io/login/MHDRF87/Manager) to sign up as a manager of our Sandbox team.
+## Manager Dashboard Workflow
 
-Once you are on the team, you should be able to run through the following tasks:
+- Visit www.statlink.io on any device and any broswer
+- Create an Account - Select your role as a "Coach."
+- Create a Team
+- Home page > Roster > Players > Upload a Roster for your new team (manual or csv upload)
+- Home page > Roster > Manager > Invite a new manager to your team
+- Data Entry > Create a Custom Scorecard - Add metrics with several characteristics and outcome types
+- Collect Data with your Custom Scorecard
+- View the Submission. Take notice of the accordions / expanders - "Player Rankings" and "Submission Details"
+- Now, upload data with one of our csv upload "integrations" (Catapult, NCAA Stats Upload, PlayerData, etc). Sample Sheets here (Player names must match names of players on your roster).
+- View Submission Details
+- Visit the Analysis Tab
+	- View the Player Trend Tool
+	- View the Player Rankings Section
+	- View the Master Submission List
+	- Generate a Team Report
+ - Join another (exisiting) team:
+     - Visit this link: https://www.statlink.io/login/MHDRF87/Manager
+     - Log into your account
+     - Accept the invite
+  - Swap teams with the team and player selector in the upper right hand side of the UI
 
-1. Create a new player. Name them after yourself, put up a photo, assign them a number and position, and then fill out the rest of the details however you'd like.
-2. Go to the Evaluation card library and select a card to use on our team.
-3. Go through the data collection process.
-4. Take a look at your submission results once you finish and upload the data.
-5. Take a look at the player rankings in the Analysis tab.
+## Player Profile Workflow
+
+- Create your own Player Profile
+    - Player and Team Selector upper right of UI > Player Tab > + Button
+    - Upload a player photo
+    - Fill out the entire Add Player form
+- ABOUT ME tab > Fill out all the sections in your player profile
+    - Summary, bio, contact details, career history, academic interests, upcoming events, upload a highilght videoo, etc.
+- Find the Share Profile Button
+	- Copy the URL and post it in a new tab to view your player's FlashStat
+	- SHARE WITH COLLEGES
+		- Select a few college soccer coaches > Share > View our email template
+- Account tab - add an additional owner to your player's profile
+- Data Entry > Self Enter Data for your own player profile (for example, 1.5 Mile Run).
+
+3. View Search and Discovery
+- Use the filters to search for athletes (Sport, Position, Height, Score Range, etc.)
+- Search for a player name
+- Follow a player
+- Search for a team name
+
+WORK IN PROGRESS			
+
 
 (WIP - I want to provide some step-by-step here to help the candidate better navigate through our dashboard).
