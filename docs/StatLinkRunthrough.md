@@ -47,7 +47,4 @@
 - Follow a player
 - Search for a team name
 
-WORK IN PROGRESS			
-
-
-(WIP - I want to provide some step-by-step here to help the candidate better navigate through our dashboard).
+WORK IN PROGRESS
