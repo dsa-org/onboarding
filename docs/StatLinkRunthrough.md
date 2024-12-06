@@ -41,10 +41,12 @@
 - Account tab - add an additional owner to your player's profile
 - Data Entry > Self Enter Data for your own player profile (for example, 1.5 Mile Run).
 
-3. View Search and Discovery
+## View Search and Discovery
 - Use the filters to search for athletes (Sport, Position, Height, Score Range, etc.)
 - Search for a player name
 - Follow a player
+- Add a player to your team
+- Contact a player
 - Search for a team name
 
 WORK IN PROGRESS
