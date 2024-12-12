@@ -2,6 +2,10 @@
 
 # Developer Onboarding
 
+## Slack
+- Download Slack and bookmark it on your Desktop and/or Laptop. This is our primary means off communications.
+- Download the Slack mobile app on your smart phone too. This is a requirement.
+
 ## Join our Slack Channels
 
 - `#development-discussion`
