@@ -2,6 +2,8 @@
 
 # Sales and Product Manager Onboarding
 
+- Download Slack and bookmark it on your Desktop and/or Laptop. This is our primary means off communications.  Download Slack on your smart phone too. This is a requirement.
+
 ## Join our Slack Channels
 
 - `#development-staging`
