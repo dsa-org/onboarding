@@ -8,12 +8,12 @@
 - Visit www.statlink.io on any device and any broswer
 - Create an Account - Select your role as a "Coach."
 - Create a Team
-- Home page > Roster > Players > Upload a Roster for your new team (manual or csv upload)
+- Home page > Roster > Players > Upload a Roster for your new team (manual or csv upload). *Add sample file as a hyperlink*
 - Home page > Roster > Manager > Invite a new manager to your team
 - Data Entry > Create a Custom Scorecard - Add metrics with several characteristics and outcome types
 - Collect Data with your Custom Scorecard
 - View the Submission. Take notice of the accordions / expanders - "Player Rankings" and "Submission Details"
-- Now, upload data with one of our csv upload "integrations" (Catapult, NCAA Stats Upload, PlayerData, etc). Sample Sheets here (Player names must match names of players on your roster).
+- Now, upload data with one of our csv upload "integrations" (Catapult, NCAA Stats Upload, PlayerData, etc). Sample Sheets here (Player names must match names of players on your roster). *Add sample file as a hyperlink*
 - View Submission Details
 - Visit the Analysis Tab
 	- View the Player Trend Tool
