@@ -5,7 +5,7 @@
 
 ## Manager Dashboard Workflow
 
-- [ ] Visit www.staging.statlink.io on any device and any broswer (<mark style="background-color: lightblue">www.staging.statlink.io</mark> is our testing environment. Remove <mark style="background-color: lightblue">"staging"</mark> to access produciton.)
+- [ ] Visit www.staging.statlink.io on any device and any broswer (<mark style="background-color: lightblue">www.staging.statlink.io</mark> is our testing environment. Remove <mark style="background-color: lightblue">"staging"</mark> to access production.)
 - [ ] Create an Account - Select your role as a "Coach."
 - [ ] Create a Team (Name is Saint Joseph's Hawks)
 - [ ] Home page > Roster > Players > Upload a Roster for your new team (manual or csv upload). [Click HERE to download a sample file](sample_files/StatLink-Roster-SJU.csv)
@@ -33,7 +33,7 @@
       - Upload a player photo
       - Fill out the entire Add Player form
 - [ ] ABOUT ME tab > Fill out all the sections in your player profile
-    - Summary, bio, contact details, career history, academic interests, upcoming events, upload a highilght video, etc.
+    - Summary, bio, contact details, career history, academic interests, upcoming events, upload a highlight video, etc.
 - [ ] Find the Share Profile Button
 	  - Copy the URL and post it in a new tab to view your player's FlashStat
 	  - SHARE WITH COLLEGES
@@ -48,3 +48,4 @@
 - [ ] Add a player to your team
 - [ ] Contact a player
 - [ ] Search for a team name
+- [ ] Follow a team
