@@ -5,7 +5,7 @@
 
 ## Manager Dashboard Workflow
 
-- [ ] Visit www.staging.statlink.io on any device and any broswer (<mark style="background-color: lightblue">www.staging.statlink.io</mark>)
+- [ ] Visit www.staging.statlink.io on any device and any broswer (<mark style="background-color: lightblue">www.staging.statlink.io</mark> is our testing environment. Remove <mark style="background-color: lightblue">"staging"</mark> to access produciton.)
 - [ ] Create an Account - Select your role as a "Coach."
 - [ ] Create a Team
 - [ ] Home page > Roster > Players > Upload a Roster for your new team (manual or csv upload). *Add sample file as a hyperlink*
@@ -21,7 +21,7 @@
 	  - View the Master Submission List
 	  - Generate a Team Report
  - [ ] Join another (exisiting) team:
-       - Visit this link: https://www.staging.statlink.io/login/MHDRF87/Manager
+       - Visit this link: [https://www.staging.statlink.io/login/MHDRF87/Manager](https://staging.statlink.io/login/MHDRF87/Manager)
        - Log into your account
        - Accept the invite
  - [ ] Swap teams with the team and player selector in the upper right hand side of the UI
