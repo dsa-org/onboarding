@@ -7,13 +7,13 @@
 
 - [ ] Visit www.staging.statlink.io on any device and any broswer (<mark style="background-color: lightblue">www.staging.statlink.io</mark> is our testing environment. Remove <mark style="background-color: lightblue">"staging"</mark> to access production.)
 - [ ] Create an Account - Select your role as a "Coach."
-- [ ] Create a Team (Name is Saint Joseph's Hawks)
+- [ ] Create a Team (Name the team Saint Joseph's Hawks)
 - [ ] Home page > Roster > Players > Upload a Roster for your new team (manual or csv upload). [Click HERE to download a sample file of a roster](/sample_files/StatLink-Roster-SJU.csv)
 - [ ] Home page > Roster > Manager > Invite a new manager to your team
 - [ ] Data Entry > Create a Custom Scorecard - Add metrics with several characteristics and outcome types
 - [ ] Collect Data with your Custom Scorecard
 - [ ] View the Submission. Take notice of the accordions / expanders - "Player Rankings" and "Submission Details"
-- [ ] Now, upload data with one of our csv upload "integrations" (Catapult, NCAA Stats Upload, PlayerData, etc). Sample Sheets here (Player names must match names of players on your roster). [Click HERE to download a sample file of Catapult Data](/sample_files/Catapult-Export-SJU-Oct-29.csv)
+- [ ] Now, upload data with one of our csv upload "integrations" (Catapult, NCAA Stats Upload, PlayerData, etc). Sample Sheets here (Player names must match names of players on your roster). [Click HERE to download a sample file of Catapult Data](/sample_files/Catapult-Export-SJU-Oct-29.csv). [Click HERE to download a sample file of a Wyscout Report](/sample_files/Duquesne_Duke_Saint_Josephs_Hawks_2_1.pdf).
 - [ ] View Submission Details after data is finished uploading
 - [ ] Visit the Analysis Tab
 	  - View the Player Trend Tool
