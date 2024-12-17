@@ -1,51 +1,103 @@
-[Return to README](../README.md)
+# StatLink - Basic Application Workflow
 
-# StatLink - Basic Workflow of StatLink
-- If you encounter any confusion or questions during this workflow, take notes and reach out to Scott Krotee, Senior Product Manager, on Slack or at scott@dsa-labs.com
+If you encounter any confusion or questions during this workflow, take notes and reach out to **Scott Krotee, Senior Product Manager**, via:  
+- **Slack**  
+- **Email**: [scott@dsa-labs.com](mailto:scott@dsa-labs.com)  
+
+---
 
 ## Manager Dashboard Workflow
 
-- [ ] Visit www.staging.statlink.io on any device and any broswer (<mark style="background-color: lightblue">www.staging.statlink.io</mark> is our testing environment. Remove <mark style="background-color: lightblue">"staging"</mark> to access production.)
-- [ ] Create an Account - Select your role as a "Coach."
-- [ ] Create a Team (Name the team Saint Joseph's Hawks)
-- [ ] Home page > Roster > Players > Upload a Roster for your new team (manual or csv upload). [Click HERE to download a sample file of a roster](/sample_files/StatLink-Roster-SJU.csv)
-- [ ] Home page > Roster > Manager > Invite a new manager to your team
-- [ ] Data Entry > Create a Custom Scorecard - Add metrics with several characteristics and outcome types
-- [ ] Collect Data with your Custom Scorecard
-- [ ] View the Submission. Take notice of the accordions / expanders - "Player Rankings" and "Submission Details"
-- [ ] Now, upload data with one of our csv upload "integrations" (Catapult, NCAA Stats Upload, PlayerData, etc). Sample Sheets here (Player names must match names of players on your roster). [Click HERE to download a sample file of Catapult Data](/sample_files/Catapult-Export-SJU-Oct-29.csv). [Click HERE to download a sample file of a Wyscout Report](/sample_files/Duquesne_Duke_Saint_Josephs_Hawks_2_1.pdf).
-- [ ] View Submission Details after data is finished uploading
-- [ ] Visit the Analysis Tab
-	  - View the Player Trend Tool
-	  - View the Player Rankings Section
-	  - View the Master Submission List
-	  - Generate a Team Report
- - [ ] Join another (exisiting) team:
-       - Visit this link: [https://www.staging.statlink.io/login/MHDRF87/Manager](https://staging.statlink.io/login/MHDRF87/Manager)
-       - Log into your account
-       - Accept the invite
- - [ ] Swap teams with the team and player selector in the upper right hand side of the UI
+- [ ] **Access the Application**  
+   Visit [www.staging.statlink.io](https://www.staging.statlink.io) on any device and browser.  
+   - *Note*: This is the **testing environment**. Remove `staging` to access production.  
+
+- [ ] **Create an Account**  
+   Select your role as **Coach**.  
+
+- [ ] **Create a Team**  
+   Name the team **Saint Joseph's Hawks**.  
+
+- [ ] **Upload a Roster**  
+   - Go to: **Home > Roster > Players > Upload Roster**  
+   - Upload manually or via CSV.  
+   - [Click HERE to download a sample file of a roster](../sample_files/StatLink-Roster-SJU.csv).  
+
+- [ ] **Invite a New Manager**  
+   - Navigate to: **Home > Roster > Manager > Invite Manager**  
+
+- [ ] **Create a Custom Scorecard**  
+   - Go to: **Data Entry > Create Custom Scorecard**  
+   - Add metrics with characteristics and outcome types.  
+
+- [ ] **Collect and View Data**  
+   - Use the custom scorecard to collect data.  
+   - View the submission and expand:  
+     - **Player Rankings**  
+     - **Submission Details**  
+
+- [ ] **Upload Data from Integrations**  
+   - Use CSV uploads from integrations like Catapult, NCAA Stats Upload, or PlayerData.  
+   - Sample Sheets:  
+     - [Download a sample Catapult Data file](../sample_files/Catapult-Export-SJU-Oct-29.csv).  
+     - [Download a sample Wyscout Report](../sample_files/Duquesne_Duke_Saint_Josephs_Hawks_2_1.pdf).  
+
+- [ ] **Review Uploaded Data**  
+   - View the updated **Submission Details**.  
+
+- [ ] **Explore the Analysis Tab**  
+   - View:  
+     - **Player Trend Tool**  
+     - **Player Rankings Section**  
+     - **Master Submission List**  
+     - Generate a **Team Report**  
+
+- [ ] **Join an Existing Team**  
+   - Visit this link: [Join Existing Team](https://staging.statlink.io/login/MHDRF87/Manager).  
+   - Log into your account and accept the invite.  
+
+- [ ] **Switch Teams**  
+   - Use the **Team and Player Selector** in the upper-right corner of the UI.  
+
+---
 
 ## Player Profile Workflow
 
-- [ ] Create your own Player Profile
-      - Player and Team Selector upper right of UI > Player Tab > + Button
-      - Upload a player photo
-      - Fill out the entire Add Player form
-- [ ] ABOUT ME tab > Fill out all the sections in your player profile
-    - Summary, bio, contact details, career history, academic interests, upcoming events, upload a highlight video, etc.
-- [ ] Find the Share Profile Button
-	  - Copy the URL and post it in a new tab to view your player's FlashStat
-	  - SHARE WITH COLLEGES
-		  - Select a few college soccer coaches > Share > View our email template
-- [ ] Account tab - add an additional owner to your player's profile
-- [ ] Data Entry > Self Enter Data for your own player profile (for example, 1.5 Mile Run).
+- [ ] **Create a Player Profile**  
+   - Go to: **Player and Team Selector (upper-right) > Player Tab > + Button**  
+   - Upload a player photo.  
+   - Complete the **Add Player** form.  
+
+- [ ] **Complete the ABOUT ME Tab**  
+   - Fill out sections like:  
+     - Summary, bio, contact details, career history, academic interests, upcoming events, highlight videos, etc.  
+
+- [ ] **Share the Player Profile**  
+   - Locate the **Share Profile** button.  
+   - Copy the URL and open it in a new tab to view your **FlashStat**.  
+   - **Share with Colleges**:  
+     - Select college soccer coaches > Share > View email template.  
+
+- [ ] **Add an Additional Owner**  
+   - Go to: **Account Tab > Add Owner**  
+
+- [ ] **Self-Enter Player Data**  
+   - Go to: **Data Entry > Enter Data**  
+   - Example: Log a **1.5 Mile Run** result.  
+
+---
 
 ## View Search and Discovery
-- [ ] Use the filters to search for athletes (Sport, Position, Height, Score Range, etc.)
-- [ ] Search for a player name
-- [ ] Follow a player
-- [ ] Add a player to your team
-- [ ] Contact a player
-- [ ] Search for a team name
-- [ ] Follow a team
+
+- [ ] **Use Search Filters**  
+   - Search for athletes using filters like: **Sport, Position, Height, Score Range**, etc.  
+
+- [ ] **Search for a Player or Team**  
+   - **Search Player Name**  
+   - **Search Team Name**  
+
+- [ ] **Engage with Players and Teams**  
+   - Follow a player.  
+   - Add a player to your team.  
+   - Contact a player.  
+   - Follow a team.  
