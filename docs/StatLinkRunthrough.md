@@ -5,7 +5,7 @@
 
 ## Manager Dashboard Workflow
 
-- [ ] Visit www.staging.statlink.io on any device and any broswer (www.<mark style="background-color: lightblue">staging.</mark>statlink.io is our testing environment)
+- [ ] Visit www.staging.statlink.io on any device and any broswer (<mark style="background-color: lightblue">www.staging.statlink.io</mark>)
 - [ ] Create an Account - Select your role as a "Coach."
 - [ ] Create a Team
 - [ ] Home page > Roster > Players > Upload a Roster for your new team (manual or csv upload). *Add sample file as a hyperlink*
