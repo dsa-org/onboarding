@@ -83,7 +83,7 @@ When creating a new ticket on JIRA, please use the following format below. This 
 **Add screenshots and video recording:** [Add any applicable screenshots and screen recordings necessary]
 
 
-[See an example here](./docs/JiraTicketReportingFormat.md).
+[See an example here](./JiraTicketReportingFormat.md).
 
 **When creating a JIRA Ticket, please also select the Priority and Parent Issue.  This information is critical to tracking issues.**
 
