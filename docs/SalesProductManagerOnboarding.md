@@ -36,7 +36,7 @@ When reporting a new issue on Slack, please use the thread #development-new-issu
 
 **Date/Time:** [mm/dd/yy hh:mmPM time zone]
 
-[See an example here](./SlackReportingTemplate.md).
+[See an example here](./SlackReportingFormat.md).
 
 
 ## JIRA
