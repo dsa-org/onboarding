@@ -20,7 +20,7 @@
 
 ## Reporting an Issue On Slack - Format
 
-When reporting a new issue on Slack, please use the thread #development-new-issues and follow the format below. This ensures a standardized, clear, and concise way of reporting, making it easier for our developers to address issues efficiently.
+When reporting a new issue on Slack, please use the thread `#development-new-issues` and follow the format below. This ensures a standardized, clear, and concise way of reporting, making it easier for our developers to address issues efficiently.
 
 **Email of Account:** [Email of Account Effected]
 
