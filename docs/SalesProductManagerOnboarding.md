@@ -34,7 +34,7 @@ When reporting a new issue on Slack, please use the thread #development-new-issu
 
 **Expected Behavior:** [Insert a description of the expected behavior here]
 
-**Date/Time:** [mm/dd/yy hh:mmPM time zone]
+**Date/Time:** [mm/dd/yy hh:mm AM/PM time zone]
 
 [See an example here](./SlackReportingFormat.md).
 
