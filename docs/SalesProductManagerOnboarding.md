@@ -20,12 +20,23 @@
 
 ## Reporting an Issue On Slack - Format
 
-Email of Account: [Email of Account Effected]
-Which Team or Profile: [Team or Profile Effected]
-Screen Name and Path: [Name of Page] > [Name of Page] > [Name of Page]
-Motive: [Instert the users motivation or intention of their action]
-Description of issue: [Insert a description of the issue here]
-Date/Time: [mm/dd/yy hh:mmPM time zone]
+When reporting a new issue on Slack, please use the thread #development-new-issues and follow the format below. This ensures a standardized, clear, and concise way of reporting, making it easier for our developers to address issues efficiently.
+
+**Email of Account:** [Email of Account Effected]
+
+**Which Team or Profile:** [Team or Profile Effected]
+
+**Screen Name and Path:** [Name of Page] > [Name of Page] > [Name of Page]
+
+**Motive:** [Insert the users motivation or intention of their action]
+
+**Description of issue:** [Insert a description of the issue here]
+
+**Expected Behavior:** [Insert a description of the expected behavior here]
+
+**Date/Time:** [mm/dd/yy hh:mmPM time zone]
+
+[See an example here](./sample_files/SlackReportingTemplate.md).
 
 
 ## JIRA
@@ -34,6 +45,48 @@ Email bobby@dsa-labs and CC scott@dsa-labs.com to request access to JIRA and the
 
     - Subject: DSA Labs JIRA Access
     - Message: Please invite me to the DSA Labs JIRA Project.
+    
+
+## Creating a Ticket on JIRA - Format
+
+When creating a new ticket on JIRA, please use the following format below. This ensures a standardized, clear, and concise way of reporting, making it easier for our developers to address issues efficiently. Using the full template allows engineers to work faster and more efficiently.  **At a MINIMUM, a ticket should include a Description, Location and Acceptance Criteria.**
+
+**Description:** [Insert a description of the issue here]
+
+
+**Location of Issue:** [Insert a description of the issue here]
+
+**Email of Account:** [Email of Account Effected]
+
+**Which Team or Profile:** [Team or Profile Effected]
+
+**Screen Name and Path:** [Name of Page] > [Name of Page] > [Name of Page]
+
+**Motive:** [Insert the users motivation or intention of their action]
+
+**Description of issue:** [Insert a description of the issue here
+
+**Expected Behavior:** [Insert a description of the expected behavior here]
+
+**Date/Time:** [mm/dd/yy hh:mmPM time zone]
+
+
+**Feature:** [Insert a description of the feature that is affected here]
+
+
+**User Impact** [Insert a description of the impact on users here]
+
+
+**Acceptance Criteria:** [Insert a description of the acceptance criteria here]
+
+
+**Add screenshots and video recording:** [Add any applicable screenshots and screen recordings necessary]
+
+
+[See an example here](./sample_files/JiraTicketReportingTemplate.md).
+
+**When creating a JIRA Ticket, please also select the Priority and Parent Issue.  This information is critical to tracking issues.**
+
 
 
 ## Sales and Product Meetings
