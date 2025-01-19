@@ -106,7 +106,7 @@ The Kanban board has 6 columns:
 
 - When the ticket moves into `NEEDS TESTING` a PM will test the changes on staging.statlink.io and move the ticket forward into `PENDING DEPLOYMENT` the the changes meet the expectations.
 
-- When the ticket moves into `PENDING DEPLOYMENT` we expect the changed to be pushed to production. When pushed to production, please move the ticket into `DONE`
+- When the ticket moves into `PENDING DEPLOYMENT` we expect the changes to be pushed to production. When pushed to production, please move the ticket into `DONE`
 
 
 ## Sales and Product Meetings
