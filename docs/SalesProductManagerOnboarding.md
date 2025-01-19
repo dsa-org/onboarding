@@ -68,7 +68,7 @@ When creating a new ticket on JIRA, please use the following format below. This 
 
 **Expected Behavior:** [Insert a description of the expected behavior here]
 
-**Date/Time:** [mm/dd/yy hh:mmPM time zone]
+**Date/Time:** [mm/dd/yy hh:mm AM/PM time zone]
 
 
 **Feature:** [Insert a description of the feature that is affected here]
