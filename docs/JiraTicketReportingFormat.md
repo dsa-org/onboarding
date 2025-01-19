@@ -11,7 +11,7 @@
 
 **Screen Name and Path:** Manager Dashboard > Data Entry Tab > Select Scorecard > Edit Scorecard > Metrics > Checkbox Preferences under each metric.
 
-**Motive:** [Insert the users motivation or intention of their action]
+**Motive:** I am trying to select and save No Rankings for a Metric
 
 **Description of issue:** Users have reported an issue where selecting the "No Rankings" option under metric preferences fails to save. This issue affects the ability to configure metric displays according to user preferences, potentially impacting data analysis and reporting accuracy. Selecting and Saving "No Rankings" under a metric preference, does not save.
 
