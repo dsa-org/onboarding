@@ -47,7 +47,7 @@ Email bobby@dsa-labs and CC scott@dsa-labs.com to request access to JIRA and the
     - Message: Please invite me to the DSA Labs JIRA Project.
     
 
-## Creating a Ticket on JIRA - Format
+### Creating a Ticket on JIRA - Format
 
 When creating a new ticket on JIRA, please use the following format below. This ensures a standardized, clear, and concise way of reporting, making it easier for our developers to address issues efficiently. Using the full template allows engineers to work faster and more efficiently.  **At a MINIMUM, a ticket should include a Description, Location and Acceptance Criteria.**
 
@@ -88,10 +88,31 @@ When creating a new ticket on JIRA, please use the following format below. This 
 **When creating a JIRA Ticket, please also select the Priority and Parent Issue.  This information is critical to tracking issues.**
 
 
+### How the JIRA Kanban Board Works
+
+The Kanban board has 6 columns:
+1. `READY FOR DEVELOPMENT`
+2. `IN PROGRESS`
+3. `ENGINEERING REVIEW`
+4. `NEEDS TESTING`
+5. `PENDING DEPLOYMENT`
+6. `DONE`
+
+- A PM will move a JIRA Ticket into `READY FOR DEVELOPMENT` and assign a developer.
+
+- The developer is then responsible for moving the JIRA Ticket into 'IN PROGRESS' and then into `ENGINEERING REVIEW`
+
+- When the ticket moves into `ENGINEERING REVIEW` a senior developer will review your changes.
+
+- When the ticket moves into `NEEDS TESTING` a PM will test the changes on staging.statlink.io and move the ticket forward into `PENDING DEPLOYMENT` the the changes meet the expectations.
+
+- When the ticket moves into `PENDING DEPLOYMENT` we expect the changed to be pushed to production. When pushed to production, please move the ticket into `DONE`
+
 
 ## Sales and Product Meetings
 
 Email scott@dsa-labs.com to be added to the W/F 2PM EST Sales calls. We use Google Calendar and Google Meet.
+
 
 ## Tools and Domains
 
@@ -104,9 +125,11 @@ Email scott@dsa-labs.com to be added to the W/F 2PM EST Sales calls. We use Goog
 - [StatLink Admin Panel](https://https://api.statlink.io/administration/dashboard/) is our admin panel for StatLink. View all accounts, teams, and players. Manage subscriptions, archiving accounts, and other functions.
 - [Canva](https://https://www.canva.com/) is our prefered tools to create sales, marketing, and social media graphics.
 
+
 ## DSA Labs Sales Guide
 
 Visit and reference our [Sales Guide](./SalesProductManagerOnboarding.pdf) regularly.
+
 
 ## Next steps...
 
