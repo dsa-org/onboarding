@@ -36,7 +36,7 @@ When reporting a new issue on Slack, please use the thread #development-new-issu
 
 **Date/Time:** [mm/dd/yy hh:mmPM time zone]
 
-[See an example here](./sample_files/SlackReportingTemplate.md).
+[See an example here](./docs/SlackReportingTemplate.md).
 
 
 ## JIRA
@@ -83,7 +83,7 @@ When creating a new ticket on JIRA, please use the following format below. This 
 **Add screenshots and video recording:** [Add any applicable screenshots and screen recordings necessary]
 
 
-[See an example here](./sample_files/JiraTicketReportingTemplate.md).
+[See an example here](./docs/JiraTicketReportingTemplate.md).
 
 **When creating a JIRA Ticket, please also select the Priority and Parent Issue.  This information is critical to tracking issues.**
 
