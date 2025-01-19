@@ -68,7 +68,7 @@ When creating a new ticket on JIRA, please use the following format below. This 
 
 **Expected Behavior:** [Insert a description of the expected behavior here]
 
-**Date/Time:** [mm/dd/yy hh:mm AM/PM time zone]
+**Date/Time:** [mm/dd/yyyy hh:mm AM/PM time zone]
 
 
 **Feature:** [Insert a description of the feature that is affected here]
@@ -100,7 +100,7 @@ The Kanban board has 6 columns:
 
 - A PM will move a JIRA Ticket into `READY FOR DEVELOPMENT` and assign a developer.
 
-- The developer is then responsible for moving the JIRA Ticket into 'IN PROGRESS' and then into `ENGINEERING REVIEW`
+- The developer is then responsible for moving the JIRA Ticket into `IN PROGRESS` and then into `ENGINEERING REVIEW`
 
 - When the ticket moves into `ENGINEERING REVIEW` a senior developer will review your changes.
 
