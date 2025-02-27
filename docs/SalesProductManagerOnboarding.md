@@ -41,7 +41,7 @@ When reporting a new issue on Slack, please use the thread `#development-new-iss
 
 ## JIRA
 
-Email bobby@dsa-labs and CC scott@dsa-labs.com to request access to JIRA and the Kanban Board
+Email scott@dsa-labs.com to request access to JIRA and the Kanban Board
 
     - Subject: DSA Labs JIRA Access
     - Message: Please invite me to the DSA Labs JIRA Project.
@@ -87,6 +87,8 @@ When creating a new ticket on JIRA, please use the following format below. This 
 
 **When creating a JIRA Ticket, please also select the Priority and Parent Issue.  This information is critical to tracking issues.**
 
+**TIP:** Under a new project (name it "JIRA Tickets), prompt ChatGPT "I am a Product Manager (or whatever your job title is) with DSA Labs. This project will be dedicated to creating JIRA Tickets. Help me create all of my JIRA Tickets while sing my JIRA Ticket Template (Copy and Paste the provided template into ChatGPT) as the master guide."  You can then prompt ChatGPT with your issue, bug, or product idea to help you create JIRA Tickets that are consistent with our team's workflow.
+
 
 ### How the JIRA Kanban Board Works
 
@@ -111,7 +113,7 @@ The Kanban board has 6 columns:
 
 ## Sales and Product Meetings
 
-Email scott@dsa-labs.com to be added to the W/F 2PM EST Sales calls. We use Google Calendar and Google Meet.
+Email scott@dsa-labs.com to be added to the W/F 9:30AM EST Sales calls. We use Google Calendar and Google Meet.
 
 
 ## Tools and Domains
