@@ -9,7 +9,7 @@ If you encounter any confusion or questions during this workflow, take notes and
 ## Manager Dashboard Workflow
 
 - [ ] **Access the Application**  
-   Visit [www.staging.statlink.io](https://www.staging.statlink.io) on any device and browser.  
+   Visit [www.staging.statlink.io](https://staging.statlink.io/) on any device and browser.  
    - *Note*: This is the **testing environment**. Remove `staging` to access production.  
 
 - [ ] **Create an Account**  
