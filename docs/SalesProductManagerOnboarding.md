@@ -124,7 +124,7 @@ Email scott@dsa-labs.com to be added to the W/F 9:30AM EST Sales calls. We use G
 - [Pipedrive](https://www.pipedrive.com/) is our CRM where we track leads, deals, and our sales cycle.
 - [Google Analytics](https://analytics.google.com/) is a tool used to view the analytics of www.dsa-labs.com and StatLink
 - [DSA Labs](https://www.dsa-labs.com/) is our company's website.
-- [StatLink Admin Panel](https://api.statlink.io/administration/dashboard/) is our admin panel for StatLink. View all accounts, teams, and players. Manage subscriptions, archiving accounts, and other functions.
+- [StatLink Admin Panel](https://api.statlink.io/administration/dashboard) is our admin panel for StatLink. View all accounts, teams, and players. Manage subscriptions, archiving accounts, and other functions.
 - [Canva](https://www.canva.com/) is our prefered tools to create sales, marketing, and social media graphics.
 
 
