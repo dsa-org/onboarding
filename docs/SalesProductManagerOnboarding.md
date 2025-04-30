@@ -118,14 +118,14 @@ Email scott@dsa-labs.com to be added to the W/F 9:30AM EST Sales calls. We use G
 
 ## Tools and Domains
 
-- [StatLink](https:www.statlink.com/) StatLink - Production.
-- [StatLink - Staging](https://https://staging.statlink.io/login/) is testing / staging environment where we test development items before pushing it to production
-- [Jira](https://https://dsalabs.atlassian.net/jira/your-work/) is our project management tool where we plan, track, and release devoplement work.
-- [Pipedrive](https://https://www.pipedrive.com/) is our CRM where we track leads, deals, and our sales cycle.
+- [StatLink](https://www.statlink.com/) StatLink - Production.
+- [StatLink - Staging](https://staging.statlink.io/login/) is testing / staging environment where we test development items before pushing it to production
+- [Jira](https://dsalabs.atlassian.net/jira/your-work/) is our project management tool where we plan, track, and release devoplement work.
+- [Pipedrive](https://www.pipedrive.com/) is our CRM where we track leads, deals, and our sales cycle.
 - [Google Analytics](https://analytics.google.com/) is a tool used to view the analytics of www.dsa-labs.com and StatLink
 - [DSA Labs](https://www.dsa-labs.com/) is our company's website.
-- [StatLink Admin Panel](https://https://api.statlink.io/administration/dashboard/) is our admin panel for StatLink. View all accounts, teams, and players. Manage subscriptions, archiving accounts, and other functions.
-- [Canva](https://https://www.canva.com/) is our prefered tools to create sales, marketing, and social media graphics.
+- [StatLink Admin Panel](https://api.statlink.io/administration/dashboard/) is our admin panel for StatLink. View all accounts, teams, and players. Manage subscriptions, archiving accounts, and other functions.
+- [Canva](https://www.canva.com/) is our prefered tools to create sales, marketing, and social media graphics.
 
 
 ## DSA Labs Sales Guide
@@ -135,4 +135,4 @@ Visit and reference our [Sales Guide](./SalesProductManagerOnboarding.pdf) regul
 
 ## Next steps...
 
-Work in Progress...
+Work in progress...
