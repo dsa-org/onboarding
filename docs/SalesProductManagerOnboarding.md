@@ -118,7 +118,7 @@ Email scott@dsa-labs.com to be added to the W/F 9:30AM EST Sales calls. We use G
 
 ## Tools and Domains
 
-- [StatLink](https://www.statlink.com/) StatLink - Production.
+- [StatLink](https://statlink.com/) StatLink - Production.
 - [StatLink - Staging](https://staging.statlink.io/login/) is testing / staging environment where we test development items before pushing it to production
 - [Jira](https://dsalabs.atlassian.net/jira/your-work/) is our project management tool where we plan, track, and release devoplement work.
 - [Pipedrive](https://www.pipedrive.com/) is our CRM where we track leads, deals, and our sales cycle.
