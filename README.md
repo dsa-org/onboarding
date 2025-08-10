@@ -6,6 +6,7 @@ We are excited to have you with us. This documentation is for getting you fully 
 
 - Read up on who we are [here](https://www.dsa-labs.com).
 - Learn more about [our team](https://www.dsa-labs.com/team).
+- View our latest [deck](docs/DSADeck.pdf)
 
 ## Getting started
 
