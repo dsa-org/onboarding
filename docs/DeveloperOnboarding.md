@@ -22,7 +22,7 @@ Email bobby@dsa-labs and CC scott@dsa-labs.com to request access to JIRA and the
 
 ## Standup Meetings
 
-Email scott@dsa-labs.com to be added to the M/W/F 12PM EST Standup calls. We also hold a Sprint Discussion every other Monday at 9:30AM EST. We use Google Calendar and Google Meet.
+Email scott@dsa-labs.com to be added to the M/W/F 12PM EST Standup calls. We use Google Calendar and Google Meet.
 
 ## Tools
 
