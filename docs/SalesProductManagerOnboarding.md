@@ -111,9 +111,9 @@ The Kanban board has 6 columns:
 - When the ticket moves into `PENDING DEPLOYMENT` we expect the changes to be pushed to production. When pushed to production, please move the ticket into `DONE`
 
 
-## Sales and Product Meetings
+## Sales, Ops, and Product Meetings
 
-Email scott@dsa-labs.com to be added to the W/F 9:30AM EST Sales calls. We use Google Calendar and Google Meet.
+Email scott@dsa-labs.com to be added to the M/W 11:30AM EST Sales, Ops, and Product calls. We use Google Calendar and Google Meet.
 
 
 ## Tools and Domains
