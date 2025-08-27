@@ -113,7 +113,7 @@ The Kanban board has 6 columns:
 
 ## Sales, Ops, and Product Meetings
 
-Email scott@dsa-labs.com to be added to the M/W 11:30AM EST Sales, Ops, and Product calls. We use Google Calendar and Google Meet.
+Email scott@dsa-labs.com to be added to the M/W 12:30PM EST Sales, Ops, and Product calls. We use Google Calendar and Google Meet.
 
 
 ## Tools and Domains
