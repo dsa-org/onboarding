@@ -36,7 +36,7 @@ Email scott@dsa-labs.com to be added to the M/W/F 12PM EST Standup calls. We use
 - [Microsoft Visual Studio C++ Build Tools](https://visualstudio.microsoft.com/downloads/?q=build+tools) is required for some of this project's dependencies.
 
 ## Design Reference
-- [StatLink Design Guide](https://xd.adobe.com/view/ca7c59c4-5501-471e-a15d-c04d19f2424b-9f2f/)
+- UI Rehaul in Progress. Under Construction.
 
 ## Tutorials
 
