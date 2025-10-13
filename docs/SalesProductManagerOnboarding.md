@@ -131,8 +131,3 @@ Email scott@dsa-labs.com to be added to the M/W 12:30PM EST Sales, Ops, and Prod
 ## DSA Labs Sales Guide
 
 Visit and reference our [Sales Guide](./SalesProductManagerOnboarding.pdf) regularly.
-
-
-## Next steps...
-
-Work in progress...
