@@ -1,6 +1,6 @@
 [Return to README](../README.md)
 
-# Sales and Product Manager Onboarding
+# Product Team Onboarding
 
 ## Slack
 - Download Slack and bookmark it on your Desktop and/or Laptop. This is our primary means of communications.
@@ -8,12 +8,11 @@
 
 ## Join our Slack Channels
 
-- `#development-staging`
+- `#development-staging-issues`
 - `#development-new-issues`
-- `#productdevelopment`
-- `#business-development`
-- `#customeraquisition`
-- `#integrations`
+- `#product-development`
+- `#sales-business-development`
+- `#customer-aquisition`
 - `#ux-product-design`
 - `#onboarding-clients`
 - `#competitors`
@@ -111,9 +110,9 @@ The Kanban board has 6 columns:
 - When the ticket moves into `PENDING DEPLOYMENT` we expect the changes to be pushed to production. When pushed to production, please move the ticket into `DONE`
 
 
-## Sales, Ops, and Product Meetings
+## Sales, Ops, and Marketing Meetings
 
-Email scott@dsa-labs.com to be added to the M/W 12:30PM EST Sales, Ops, and Product calls. We use Google Calendar and Google Meet.
+Email chip@dsa-labs.com to be added to the Sales, Ops, and Marketing calls. We use Google Calendar and Google Meet.
 
 
 ## Tools and Domains
