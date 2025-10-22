@@ -6,7 +6,7 @@
 1. Lauren Adam
 2. Lauren Omholt
 3. Sabrina Blount
-4 Megan Hutchinson
+4. Megan Hutchinson
 5. Abigale Roy
 6. Kayla Budish
 7. Sydney Boudreau

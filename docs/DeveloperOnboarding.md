@@ -2,62 +2,103 @@
 
 # Developer Onboarding
 
-## Slack
-- Download Slack and bookmark it on your Desktop and/or Laptop. This is our primary means off communications.
-- Download the Slack mobile app on your smart phone too. This is a requirement.
+Welcome! Follow these steps in order. If anything is unclear, ask in `#development-discussion`.
 
-## Join our Slack Channels
+---
 
-- `#development-discussion`
-- `#development-staging`
-- `#development-new-issues`
-- `#productdevelopment`
+## Slack (primary communications)
+- Install Slack on **desktop** and **mobile** (required).
+- Enable **2FA** in Slack (required).
+- Join these channels:
+  - `#development-discussion` — general dev chat / questions
+  - `#development-staging-issues` — staging deploys & verifications
+  - `#development-new-issues` — bug reports / regressions
+  - `#productdevelopment` — roadmaps & priorities
 
-## JIRA
+---
 
-Email bobby@dsa-labs and CC scott@dsa-labs.com to request access to JIRA and the Kanban Board
+## Jira access
+Email **bobby@dsa-labs.com** and CC **scott@dsa-labs.com** to request Jira + Kanban access.
 
-    - Subject: DSA Labs JIRA Access
-    - Message: Please invite me to the DSA Labs JIRA Project.
+**Subject:** `DSA Labs Jira Access`  
+**Body:**
+Please invite me to the DSA Labs Jira project and Kanban board.  
+Name:  
+Role:  
+Preferred email:  
 
-## Standup Meetings
+---
 
-Email scott@dsa-labs.com to be added to the M/W/F 12PM EST Standup calls. We use Google Calendar and Google Meet.
+## Standup meetings
+Email **scott@dsa-labs.com** to be added to **M/W/F 12:00 PM ET** standups (Google Calendar + Meet).
 
-## Tools
+**Subject:** `Add me to Dev Standups (M/W/F 12PM ET)`  
+**Body:**  
+Please add me to the M/W/F 12PM ET dev standups.  
+Name:  
+Email (for invite):  
+Time zone:  
 
-- [VS Code](https://code.visualstudio.com/) is our preferred IDE.
-- [Git](https://git-scm.com/) is the CLI of our choice for version control on StatLink.
-    - You can install [GitHub Desktop](https://desktop.github.com/download/) for a UI equivalent. 
-- [Python](https://www.python.org/downloads/) is needed to start running and operating the project!
-- [DB SQLite Browser](https://sqlitebrowser.org/) is a tool used to manipulate the local database.
-- [pgAdmin](https://www.pgadmin.org/) is a tool used for manipulating the database in the staging and production environments.
-- [Docker](https://www.docker.com/) is currently utilized for enabling Django to listen for both HTTP and Websocket requests.
-- [Microsoft Visual Studio C++ Build Tools](https://visualstudio.microsoft.com/downloads/?q=build+tools) is required for some of this project's dependencies.
+---
 
-## Design Reference
-- UI Rehaul in Progress. Under Construction.
+## Required tools
+- [VS Code](https://code.visualstudio.com/) — primary IDE  
+- [Git](https://git-scm.com/) / [GitHub Desktop](https://desktop.github.com/download/) — version control  
+- [Python](https://www.python.org/downloads/) (3.11+) — backend tooling & scripts  
+- [DB Browser for SQLite](https://sqlitebrowser.org/) — local DB inspection  
+- [pgAdmin](https://www.pgadmin.org/) — staging/prod Postgres access  
+- [Docker](https://www.docker.com/) — local services; Django + websockets  
+- [Microsoft Visual Studio C++ Build Tools](https://visualstudio.microsoft.com/downloads/?q=build+tools) — native deps on Windows
 
-## Tutorials
+> Enable **2FA** on **GitHub** and **Google** before requesting repo access.
 
-The following are some links you may find helpful to follow before getting started with StatLink. Please read through the links if you are unfamiliar with any of the tools involved.
-- [Getting started with Python](https://code.visualstudio.com/docs/python/python-tutorial)
-- [How to set up a Django application](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
-- [Using DB SQLite Browser](https://datacarpentry.org/sql-socialsci/02-db-browser.html)
+---
 
-## Next steps...
+## Design reference
+UI rehaul in progress (under construction). Ask Product for current mocks and component guidance.
 
-When you are finished with the README steps and completed the above, reach out to `bobby@dsa-labs.com` over email with the following request:
+---
 
-- Subject: `StatLink GitHub Request`
-- Message: `Please invite me to the dsa and dsa-frontend repositories.`
+## Tutorials (skim if new to stack)
+- [Getting started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)  
+- [How to set up a Django application](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)  
+- [Using DB Browser for SQLite](https://datacarpentry.org/sql-socialsci/02-db-browser.html)
 
-Once you are given access to the repositories, you can start onboarding to each of our applications:
+---
 
-### dsa
+## GitHub access request
+After completing the steps above, email **bobby@dsa-labs.com** (CC **scott@dsa-labs.com**):
 
-Go to `/docs/README.md`
+**Subject:** `StatLink GitHub Access`  
+**Body:**  
+Please invite me to the GitHub org and repos:  
+- dsa (backend)  
+- dsa-frontend (frontend)  
 
-### dsa-frontend
+GitHub username:  
+Email used for GitHub:  
 
-???
+---
+
+## Repos & first steps
+
+### `dsa` (backend)
+- Open `/docs/README.md` in the repo and follow environment setup.  
+- Ask in `#development-discussion` for the `.env` template. **Never commit secrets.**
+
+### `dsa-frontend`
+- Work in progress. Ask in `#development-discussion` for current setup and tasks.
+
+---
+
+## Conventions (must read)
+- **Secrets:** Use `.env` files or approved secrets managers. **Do not** commit secrets.  
+- **Branches:** `feature/<short-name>`, `bugfix/<short-name>`, `hotfix/<short-name>`  
+- **Commits:** Conventional style (`feat: …`, `fix: …`, `chore: …`)  
+- **PRs:** Small, focused; include description, screenshots for UI, and testing notes  
+- **Reviews:** ≥1 reviewer; verify on **staging** before merge to `main`
+
+---
+
+## Need help?
+Post in `#development-discussion` or email **scott@dsa-labs.com**.

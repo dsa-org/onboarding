@@ -2,96 +2,86 @@
 
 # Product Team Onboarding
 
-## Slack
-- Download Slack and bookmark it on your Desktop and/or Laptop. This is our primary means of communications.
-- Download the Slack mobile app on your smart phone too. This is a requirement.
+Welcome! Follow these steps to get connected with the Product, Sales, and Operations teams at DSA Labs.
 
-## Join our Slack Channels
+---
 
+## Slack (primary communication)
+- Install Slack on **desktop** and **mobile** (required).
+- Enable **2FA** in Slack.
+- Bookmark the workspace and enable notifications.
+
+### Join these channels
 - `#development-staging-issues`
 - `#development-new-issues`
 - `#product-development`
 - `#sales-business-development`
-- `#customer-aquisition`
+- `#customer-acquisition`
 - `#ux-product-design`
 - `#onboarding-clients`
 - `#competitors`
 
-## Reporting an Issue On Slack - Format
+---
 
-When reporting a new issue on Slack, please use the thread `#development-new-issues` and follow the format below. This ensures a standardized, clear, and concise way of reporting, making it easier for our developers to address issues efficiently.
+## Reporting an Issue on Slack
+Use the channel `#development-new-issues` and follow this format:
 
-**Email of Account:** [Email of Account Effected]
-
-**Which Team or Profile:** [Team or Profile Effected]
-
-**Screen Name and Path:** [Name of Page] > [Name of Page] > [Name of Page]
-
-**Motive:** [Insert the users motivation or intention of their action]
-
-**Description of issue:** [Insert a description of the issue here]
-
-**Expected Behavior:** [Insert a description of the expected behavior here]
-
-**Date/Time:** [mm/dd/yy hh:mm AM/PM time zone]
-
-[See an example here](./SlackReportingFormat.md).
-
-
-## JIRA
-
-Email scott@dsa-labs.com to request access to JIRA and the Kanban Board
-
-    - Subject: DSA Labs JIRA Access
-    - Message: Please invite me to the DSA Labs JIRA Project.
-    
-
-### Creating a Ticket on JIRA - Format
-
-When creating a new ticket on JIRA, please use the following format below. This ensures a standardized, clear, and concise way of reporting, making it easier for our developers to address issues efficiently. Using the full template allows engineers to work faster and more efficiently.  **At a MINIMUM, a ticket should include a Description, Location and Acceptance Criteria.**
-
-**Description:** [Insert a description of the issue here]
-
-
-**Location of Issue:** [Insert a description of the issue here]
-
-**Email of Account:** [Email of Account Effected]
-
-**Which Team or Profile:** [Team or Profile Effected]
-
-**Screen Name and Path:** [Name of Page] > [Name of Page] > [Name of Page]
-
-**Motive:** [Insert the users motivation or intention of their action]
-
-**Description of issue:** [Insert a description of the issue here
-
-**Expected Behavior:** [Insert a description of the expected behavior here]
-
+**Email of Account:** [Email affected]  
+**Which Team or Profile:** [Team or profile affected]  
+**Screen Name and Path:** [Page] > [Subpage] > [Section]  
+**Motive:** [User’s intention or goal]  
+**Description of Issue:** [Describe what’s happening]  
+**Expected Behavior:** [Describe what should happen]  
 **Date/Time:** [mm/dd/yyyy hh:mm AM/PM time zone]
 
+📎 [See an example here](./SlackReportingFormat.md)
 
-**Feature:** [Insert a description of the feature that is affected here]
+---
 
+## Jira Access
+Email **scott@dsa-labs.com** to request access to Jira and the Kanban board.
 
-**User Impact** [Insert a description of the impact on users here]
+**Subject:** `DSA Labs Jira Access`  
+**Body:**  
+Please invite me to the DSA Labs Jira Project and Kanban board.  
+Name:  
+Role:  
+Email:  
 
+---
 
-**Acceptance Criteria:** [Insert a description of the acceptance criteria here]
+### Creating a Jira Ticket — Format
+Use the format below when creating tickets. At a minimum, include **Description**, **Location**, and **Acceptance Criteria.**
 
+**Description:** [Brief summary of issue or feature]  
+**Location of Issue:** [Path or URL]  
+**Email of Account:** [If applicable]  
+**Which Team or Profile:** [Team or account]  
+**Screen Name and Path:** [Page hierarchy]  
+**Motive:** [User’s motivation or reason]  
+**Description of Issue:** [Details of what occurred]  
+**Expected Behavior:** [What should happen]  
+**Date/Time:** [mm/dd/yyyy hh:mm AM/PM time zone]  
+**Feature:** [Feature affected]  
+**User Impact:** [Describe user impact]  
+**Acceptance Criteria:** [How we’ll know it’s fixed or complete]  
+**Screenshots / Recordings:** [Attach any visuals]
 
-**Add screenshots and video recording:** [Add any applicable screenshots and screen recordings necessary]
+📎 [See an example here](./JiraTicketReportingFormat.md)
 
+> When creating a Jira ticket, **always select the Priority and Parent Issue.**
 
-[See an example here](./JiraTicketReportingFormat.md).
+**Tip:**  
+You can use ChatGPT to help you create Jira tickets quickly.  
+Create a new project (name it “Jira Tickets”) and prompt ChatGPT:  
+> “I am a Product Manager at DSA Labs. This project is dedicated to creating Jira Tickets. Use the provided Jira Ticket Template as the master guide.”  
+Then describe your issue or idea — ChatGPT will help generate consistent Jira tickets.
 
-**When creating a JIRA Ticket, please also select the Priority and Parent Issue.  This information is critical to tracking issues.**
+---
 
-**TIP:** Under a new project (name it "JIRA Tickets), prompt ChatGPT "I am a Product Manager (or whatever your job title is) with DSA Labs. This project will be dedicated to creating JIRA Tickets. Help me create all of my JIRA Tickets while sing my JIRA Ticket Template (Copy and Paste the provided template into ChatGPT) as the master guide."  You can then prompt ChatGPT with your issue, bug, or product idea to help you create JIRA Tickets that are consistent with our team's workflow.
+### Jira Kanban Workflow
 
-
-### How the JIRA Kanban Board Works
-
-The Kanban board has 6 columns:
+The Kanban board has six columns:
 1. `READY FOR DEVELOPMENT`
 2. `IN PROGRESS`
 3. `ENGINEERING REVIEW`
@@ -99,34 +89,42 @@ The Kanban board has 6 columns:
 5. `PENDING DEPLOYMENT`
 6. `DONE`
 
-- A PM will move a JIRA Ticket into `READY FOR DEVELOPMENT` and assign a developer.
+#### Flow Overview
+- PM moves ticket → **READY FOR DEVELOPMENT**
+- Developer moves ticket → **IN PROGRESS**
+- Once complete → move to **ENGINEERING REVIEW** (senior dev review)
+- After approval → move to **NEEDS TESTING**
+  - PM tests on `staging.statlink.io`
+  - If successful → move to **PENDING DEPLOYMENT**
+- Once deployed to production → move to **DONE**
 
-- The developer is then responsible for moving the JIRA Ticket into `IN PROGRESS` and then into `ENGINEERING REVIEW`
-
-- When the ticket moves into `ENGINEERING REVIEW` a senior developer will review your changes.
-
-- When the ticket moves into `NEEDS TESTING` a PM will test the changes on staging.statlink.io and move the ticket forward into `PENDING DEPLOYMENT` the the changes meet the expectations.
-
-- When the ticket moves into `PENDING DEPLOYMENT` we expect the changes to be pushed to production. When pushed to production, please move the ticket into `DONE`
-
+---
 
 ## Sales, Ops, and Marketing Meetings
+Email **chip@dsa-labs.com** to be added to Sales, Ops, and Marketing meetings.  
+We use **Google Calendar** and **Google Meet** for all sessions.
 
-Email chip@dsa-labs.com to be added to the Sales, Ops, and Marketing calls. We use Google Calendar and Google Meet.
-
+---
 
 ## Tools and Domains
 
-- [StatLink](https://statlink.io/) StatLink - Production.
-- [StatLink - Staging](https://staging.statlink.io/login/) is testing / staging environment where we test development items before pushing it to production
-- [Jira](https://dsalabs.atlassian.net/jira/your-work/) is our project management tool where we plan, track, and release devoplement work.
-- [Pipedrive](https://www.pipedrive.com/) is our CRM where we track leads, deals, and our sales cycle.
-- [Google Analytics](https://analytics.google.com/) is a tool used to view the analytics of www.dsa-labs.com and StatLink
-- [DSA Labs](https://www.dsa-labs.com/) is our company's website.
-- [StatLink Admin Panel](https://api.statlink.io/administration/dashboard) is our admin panel for StatLink. View all accounts, teams, and players. Manage subscriptions, archiving accounts, and other functions.
-- [Canva](https://www.canva.com/) is our prefered tools to create sales, marketing, and social media graphics.
+| Tool / Platform | Description |
+|-----------------|--------------|
+| [StatLink](https://statlink.io/) | Production environment |
+| [StatLink – Staging](https://staging.statlink.io/login/) | Testing/staging environment |
+| [Jira](https://dsalabs.atlassian.net/jira/your-work/) | Project management & issue tracking |
+| [Pipedrive](https://www.pipedrive.com/) | CRM for leads, deals, and pipeline |
+| [Google Analytics](https://analytics.google.com/) | Website and platform analytics |
+| [DSA Labs](https://www.dsa-labs.com/) | Company website |
+| [StatLink Admin Panel](https://api.statlink.io/administration/dashboard) | Admin tools: manage teams, players, and subscriptions |
+| [Canva](https://www.canva.com/) | Preferred design tool for sales, marketing, and social media graphics |
 
+---
 
 ## DSA Labs Sales Guide
+Reference the [Sales Product Manager Guide (PDF)](./SalesProductManagerOnboarding.pdf) regularly for scripts, pitches, and workflows.
 
-Visit and reference our [Sales Guide](./SalesProductManagerOnboarding.pdf) regularly.
+---
+
+_Last updated: October 2025_  
+_Maintained by: Scott Krotee (Head of Product, DSA Labs)_

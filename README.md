@@ -18,3 +18,15 @@ We are excited to have you with us. This documentation is for getting you fully 
     - [Developer](./docs/DeveloperOnboarding.md)
     - [Sales and Product Manager](docs/SalesProductManagerOnboarding.md)
     
+## Additional Resources
+
+- [Offboarding Guide](./docs/Offboarding.md) — Steps to follow when a team member transitions out to ensure all access and assets are properly handed off.
+- [Team Tracker](./docs/TEAM_TRACKER.md) — Central record of all current and former team members, including system access and responsibilities.
+- [Slack Reporting Format](./docs/SlackReportingFormat.md) — How to share updates, QA reports, and ticket notes in our standard Slack format.
+- [JIRA Ticket Reporting Format](./docs/JiraTicketReportingFormat.md) — Template and examples for writing clear, reproducible issue reports.
+
+---
+
+### ⚡ Final Note
+DSA Labs is built on collaboration, clarity, and precision.  
+If something is unclear or missing from this documentation, please flag it in Slack under `#dsa-labs` or message [@scott](mailto:scott@dsa-labs.com) directly so we can keep improving our onboarding experience.
