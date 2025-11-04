@@ -13,12 +13,13 @@ Tracks onboarding/offboarding status, system access, and primary responsibilitie
 | **Dr. Jon Nichols** | Co-Founder / Director of Analytics | YYYY-MM-DD | Active | Full | Analytics | — |
 | **Chip Krotee** | Co-Founder | YYYY-MM-DD | Active | Slack & GDrive | Strategic oversight and finance | — |
 | **Scott Krotee** | Head of Product | 2022-03-01 | Active | Full | Product strategy, engineering, roadmap, and partnerships | — |
-| **Bobby Novak** | Full Stack Engineer | YYYY-MM-DD | Active | GitHub, Render, AWS | Advisory role | — |
+| **JBeau Corrales** | Head of Football | 2025-11-01 | Active | Slack, Pipedrive, GDrive | Sales & Football Vertical  | — |
+| **Bobby Novak** | Full Stack Engineer | YYYY-MM-DD | Active | Full | Advisory role | — |
 | **Yogender [Last Name]** | Full Stack Engineer | YYYY-MM-DD | Active | GitHub, Heroku, AWS | Backend & frontend development | — |
 | **Maggie Brooks** | Software Engineer | 2024-12-01 | Active | Slack, GitHub | Full stack development | — |
 | **Hunter Paone** | QA & Documentation | YYYY-MM-DD | Active | Slack, GitHub | QA testing and internal documentation | — |
 | **Julian Quintero** | Data Analyst | 2025-02-01 | Active | Slack | Data Pipeline | — |
-| **Joe Dan Rogers** | Head of Football | 2025-MM-DD | Inactive | Slack | Sales & Football Vertical  | — |
+| **Joe Dan Rogers** | Advisor, Football | 2025-MM-DD | Inactive | Slack | Football advisory role  | — |
 | **Kaliegh Fratkin** | Head of Ice Hockey | 2024-01-01 | Inactive | Slack | Sales & Ice Hockey Vertical | — |
 | **Uzair [Last Name]** | Contractor | 2025-MM-DD | Active | GitHub | Depth Chart and Fan Vote development | — |
 
