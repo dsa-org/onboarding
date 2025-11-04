@@ -13,7 +13,7 @@ Tracks onboarding/offboarding status, system access, and primary responsibilitie
 | **Dr. Jon Nichols** | Co-Founder / Director of Analytics | YYYY-MM-DD | Active | Full | Analytics | — |
 | **Chip Krotee** | Co-Founder | YYYY-MM-DD | Active | Slack & GDrive | Strategic oversight and finance | — |
 | **Scott Krotee** | Head of Product | 2022-03-01 | Active | Full | Product strategy, engineering, roadmap, and partnerships | — |
-| **JBeau Corrales** | Head of Football | 2025-11-01 | Active | Slack, Pipedrive, GDrive | Sales & Football Vertical  | — |
+| **Beau Corrales** | Head of Football | 2025-11-01 | Active | Slack, Pipedrive, GDrive | Sales & Football Vertical  | — |
 | **Bobby Novak** | Full Stack Engineer | YYYY-MM-DD | Active | Full | Advisory role | — |
 | **Yogender [Last Name]** | Full Stack Engineer | YYYY-MM-DD | Active | GitHub, Heroku, AWS | Backend & frontend development | — |
 | **Maggie Brooks** | Software Engineer | 2024-12-01 | Active | Slack, GitHub | Full stack development | — |
