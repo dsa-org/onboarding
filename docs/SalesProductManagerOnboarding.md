@@ -7,11 +7,13 @@ Welcome! Follow these steps to get connected with the Product, Sales, and Operat
 ---
 
 ## Slack (primary communication)
+
 - Install Slack on **desktop** and **mobile** (required).
 - Enable **2FA** in Slack.
 - Bookmark the workspace and enable notifications.
 
 ### Join these channels
+
 - `#development-staging-issues`
 - `#development-new-issues`
 - `#product-development`
@@ -24,6 +26,7 @@ Welcome! Follow these steps to get connected with the Product, Sales, and Operat
 ---
 
 ## Reporting an Issue on Slack
+
 Use the channel `#development-new-issues` and follow this format:
 
 **Email of Account:** [Email affected]  
@@ -38,7 +41,33 @@ Use the channel `#development-new-issues` and follow this format:
 
 ---
 
+## Product Documentation Templates (PRD / Intake / Build-No-Build)
+
+Use these templates **before** creating new Jira epics/features so we stay consistent on scope, success metrics, and tradeoffs.
+
+### Templates (Google Drive)
+
+📁 https://drive.google.com/drive/folders/1fqvH7R0npvqKUzYt2NAwG7vXEjG5CPLh
+
+Includes:
+- **PRD Template (Full)**
+- **PRD Template (Lightweight)**
+- **Product Intake Template**
+- **Build / No-Build Decision Template**
+
+### When to use what
+
+- **Product Intake** → initial request capture (problem, user, urgency, expected outcome)
+- **Build/No-Build** → quick decision gate (ROI, effort, risks, dependencies)
+- **Light PRD** → small/medium features (1–2 sprints)
+- **Full PRD** → major features / new modules (multi-sprint, cross-team impact)
+
+> After approval: translate the PRD into an Epic + tickets in Jira using the ticket format below.
+
+---
+
 ## Jira Access
+
 Email **scott@dsa-labs.com** to request access to Jira and the Kanban board.
 
 **Subject:** `DSA Labs Jira Access`  
@@ -46,11 +75,12 @@ Email **scott@dsa-labs.com** to request access to Jira and the Kanban board.
 Please invite me to the DSA Labs Jira Project and Kanban board.  
 Name:  
 Role:  
-Email:  
+Email:
 
 ---
 
-### Creating a Jira Ticket — Format
+## Creating a Jira Ticket — Format
+
 Use the format below when creating tickets. At a minimum, include **Description**, **Location**, and **Acceptance Criteria.**
 
 **Description:** [Brief summary of issue or feature]  
@@ -79,7 +109,7 @@ Then describe your issue or idea — ChatGPT will help generate consistent Jira 
 
 ---
 
-### Jira Kanban Workflow
+## Jira Kanban Workflow
 
 The Kanban board has six columns:
 1. `READY FOR DEVELOPMENT`
@@ -89,7 +119,8 @@ The Kanban board has six columns:
 5. `PENDING DEPLOYMENT`
 6. `DONE`
 
-#### Flow Overview
+### Flow Overview
+
 - PM moves ticket → **READY FOR DEVELOPMENT**
 - Developer moves ticket → **IN PROGRESS**
 - Once complete → move to **ENGINEERING REVIEW** (senior dev review)
@@ -101,6 +132,7 @@ The Kanban board has six columns:
 ---
 
 ## Sales, Ops, and Marketing Meetings
+
 Email **chip@dsa-labs.com** to be added to Sales, Ops, and Marketing meetings.  
 We use **Google Calendar** and **Google Meet** for all sessions.
 
@@ -109,7 +141,7 @@ We use **Google Calendar** and **Google Meet** for all sessions.
 ## Tools and Domains
 
 | Tool / Platform | Description |
-|-----------------|--------------|
+|-----------------|-------------|
 | [StatLink](https://statlink.io/) | Production environment |
 | [StatLink – Staging](https://staging.statlink.io/login/) | Testing/staging environment |
 | [Jira](https://dsalabs.atlassian.net/jira/your-work/) | Project management & issue tracking |
@@ -122,9 +154,10 @@ We use **Google Calendar** and **Google Meet** for all sessions.
 ---
 
 ## DSA Labs Sales Guide
+
 Reference the [Sales Product Manager Guide (PDF)](./SalesProductManagerOnboarding.pdf) regularly for scripts, pitches, and workflows.
 
 ---
 
-_Last updated: October 2025_  
+_Last updated: February 15, 2026_  
 _Maintained by: Scott Krotee (Head of Product, DSA Labs)_
