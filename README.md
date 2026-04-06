@@ -21,7 +21,7 @@ We are excited to have you with us. This documentation is for getting you fully 
 ## Additional Resources
 
 - [Offboarding Guide](./docs/Offboarding.md) — Steps to follow when a team member transitions out to ensure all access and assets are properly handed off.
-- [Team Tracker](./docs/TEAM_TRACKER.md) — Central record of all current and former team members, including system access and responsibilities.
+- [Team Tracker](./docs/TeamTracker.md) — Central record of all current and former team members, including system access and responsibilities.
 - [Slack Reporting Format](./docs/SlackReportingFormat.md) — How to share updates, QA reports, and ticket notes in our standard Slack format.
 - [JIRA Ticket Reporting Format](./docs/JiraTicketReportingFormat.md) — Template and examples for writing clear, reproducible issue reports.
 

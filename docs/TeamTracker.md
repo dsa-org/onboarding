@@ -16,6 +16,7 @@ Tracks onboarding/offboarding status, system access, and primary responsibilitie
 | **Beau Corrales** | Head of Football | 2025-11-01 | Active | Slack, Pipedrive, GDrive | Sales & Football Vertical | — |
 | **Bobby Novak** | Full Stack Engineer | YYYY-MM-DD | Active | Full | Advisory role | — |
 | **Yogender** | Full Stack Engineer | YYYY-MM-DD | Active | GitHub, Heroku, AWS | Backend & frontend development | — |
+| **Ajay** | Software Engineer (Contractor) | 2026-03-01 | Active | GitHub, Heroku, AWS | Backend & frontend development | Yogender's Padawan |
 | **Maggie Brooks** | Software Engineer | 2024-12-01 | Active | Slack, GitHub | Full stack development | — |
 | **Julian Quintero** | Data Analyst | 2025-02-01 | Active | Slack | Data Pipeline | — |
 | **Kristi Beckman** | Customer Success (Soccer) | 2026-02-01 | Active | Slack, Google Drive, Email | Customer Success / Soccer onboarding & support | Added Feb 1, 2026; limited access only |
@@ -23,7 +24,6 @@ Tracks onboarding/offboarding status, system access, and primary responsibilitie
 | **Zaman** | Contractor | 2025-MM-DD | Active | GitHub | Depth Chart and Fan Vote development | Works with Uzair; same access |
 | **Joe Dan Rogers** | Advisor, Football | 2025-MM-DD | Inactive | Slack | Football advisory role | — |
 | **Kaliegh Fratkin** | Head of Ice Hockey | 2024-01-01 | Inactive | Slack | Sales & Ice Hockey Vertical | — |
-| **Hunter Paone** | QA & Documentation | 2024-MM-DD | Inactive | Slack, GitHub | QA testing and internal documentation | Now inactive |
 
 ---
 
@@ -34,6 +34,7 @@ Tracks onboarding/offboarding status, system access, and primary responsibilitie
 | **Doug Oppenheimer** | Co-Founder | YYYY-MM-DD | 2025-01-31 | ✅ | Passed away |
 | **Katie Krotee** | Marketing Lead | 2022-01-01 | 2024-12-31 | ✅ | Transitioned to new role |
 | **Nick Remen** | Data Analyst | 2022-07-01 | 2025-11-03 | ❌ | Transitioned to new role; scripts handed off to Jon |
+| **Hunter Paone** | QA & Documentation | 2024-MM-DD | 2026-04-06 | ✅ | Offboarded; all system access removed |
 
 ---
 
@@ -49,15 +50,14 @@ Tracks onboarding/offboarding status, system access, and primary responsibilitie
 
 | Platform | Scott | Jon | Chip | Yogender | Maggie | Hunter | Uzair | Zaman | Kristi | Katie | Nick |
 |----------|:-----:|:---:|:----:|:--------:|:------:|:------:|:-----:|:-----:|:------:|:-----:|:---:|
-| Slack | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
-| GitHub | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Slack | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| GitHub | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | AWS / S3 | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Render / DB | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Google Drive | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
-| Email | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| Google Drive | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| Email | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
 
-> **Note:** Hunter is **inactive** but still currently shows access in the matrix above.  
-> If access should be revoked, flip those cells to ❌ after completing offboarding.
+> **Note:** Hunter has been fully offboarded and all access has been revoked.
 
 ---
 
@@ -70,5 +70,5 @@ Tracks onboarding/offboarding status, system access, and primary responsibilitie
 
 ---
 
-_Last updated: February 15, 2026_  
+_Last updated: April 6, 2026_  
 _Maintained by: Scott Krotee (Head of Product, DSA Labs)_
