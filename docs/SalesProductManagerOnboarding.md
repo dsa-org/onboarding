@@ -155,9 +155,9 @@ We use **Google Calendar** and **Google Meet** for all sessions.
 
 ## DSA Labs Sales Guide
 
-Reference the [Sales Product Manager Guide (PDF)](./SalesProductManagerOnboarding.pdf) regularly for scripts, pitches, and workflows.
+Reference the [Sales Product Manager Guide (PDF)](./SalesCustomerSuccessManual.pdf) regularly for scripts, pitches, and workflows.
 
 ---
 
-_Last updated: February 15, 2026_  
+_Last updated: April 7, 2026_  
 _Maintained by: Scott Krotee (Head of Product, DSA Labs)_
