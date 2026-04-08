@@ -155,7 +155,7 @@ We use **Google Calendar** and **Google Meet** for all sessions.
 
 ## DSA Labs Sales Guide
 
-Reference the [Sales Product Manager Guide (PDF)](./SalesCustomerSuccessManual.pdf) regularly for scripts, pitches, and workflows.
+Reference the [Sales & Customer Success Manual (PDF)](./SalesCustomerSuccessManual.pdf) regularly for scripts, pitches, and workflows.
 
 ---
 

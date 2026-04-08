@@ -33,7 +33,7 @@ Tracks onboarding/offboarding status, system access, and primary responsibilitie
 |------|------|------------|----------|----------------------|-------|
 | **Doug Oppenheimer** | Co-Founder | YYYY-MM-DD | 2025-01-31 | ✅ | Passed away |
 | **Katie Krotee** | Marketing Lead | 2022-01-01 | 2024-12-31 | ✅ | Transitioned to new role |
-| **Nick Remen** | Data Analyst | 2022-07-01 | 2025-11-03 | ❌ | Transitioned to new role; scripts handed off to Jon |
+| **Nick Remen** | Data Analyst | 2022-07-01 | 2025-11-03 | ✅ | Transitioned to new role; scripts handed off to Jon |
 | **Hunter Paone** | QA & Documentation | 2024-MM-DD | 2026-04-06 | ✅ | Offboarded; all system access removed |
 
 ---
@@ -70,5 +70,5 @@ Tracks onboarding/offboarding status, system access, and primary responsibilitie
 
 ---
 
-_Last updated: April 6, 2026_  
+_Last updated: April 7, 2026_  
 _Maintained by: Scott Krotee (Head of Product, DSA Labs)_
