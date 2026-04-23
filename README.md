@@ -28,7 +28,8 @@ We are excited to have you with us. This documentation is for getting you fully 
 ---
 
 ### ⚡ Final Note
-DSA Labs is built on collaboration, clarity, precision, and execution.  
+DSA Labs is built on collaboration, clarity, precision, and execution.
+
 If something is unclear or missing from this documentation, please flag it in Slack under `#dsa-labs` or message [@scott](mailto:scott@dsa-labs.com) directly so we can keep improving our onboarding experience.
 
 ---
