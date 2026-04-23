@@ -13,12 +13,12 @@ Welcome! Follow these steps in order. If anything is unclear, ask in `#developme
   - `#development-discussion` — general dev chat / questions
   - `#development-staging-issues` — staging deploys & verifications
   - `#development-new-issues` — bug reports / regressions
-  - `#productdevelopment` — roadmaps & priorities
+  - `#product-development` — roadmaps & priorities
 
 ---
 
 ## Jira access
-Email **bobby@dsa-labs.com** and CC **scott@dsa-labs.com** to request Jira + Kanban access.
+Email **scott@dsa-labs.com** and CC **bobby@dsa-labs.com** to request Jira + Kanban access.
 
 **Subject:** `DSA Labs Jira Access`  
 **Body:**
@@ -94,11 +94,16 @@ Email used for GitHub:
 ## Conventions (must read)
 - **Secrets:** Use `.env` files or approved secrets managers. **Do not** commit secrets.  
 - **Branches:** `feature/<short-name>`, `bugfix/<short-name>`, `hotfix/<short-name>`  
-- **Commits:** Conventional style (`feat: …`, `fix: …`, `chore: …`)  
-- **PRs:** Small, focused; include description, screenshots for UI, and testing notes  
+- **Commits:** Conventional style (`feat: …`, `fix: …`, `chore: …`) + include JIRA ticket (e.g., `feat: add player filter [DL-123]`)  
+- **PRs:** Small, focused; include description, screenshots for UI, testing notes, and linked JIRA ticket  
 - **Reviews:** ≥1 reviewer; verify on **staging** before merge to `main`
 
 ---
 
 ## Need help?
 Post in `#development-discussion` or email **scott@dsa-labs.com**.
+
+---
+
+_Last updated: April 23, 2026_  
+_Maintained by: Scott Krotee (Head of Product, DSA Labs)_

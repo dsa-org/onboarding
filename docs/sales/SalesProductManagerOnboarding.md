@@ -133,7 +133,7 @@ The Kanban board has six columns:
 
 ## Sales, Ops, and Marketing Meetings
 
-Email **chip@dsa-labs.com** to be added to Sales, Ops, and Marketing meetings.  
+Email **beau@dsa-labs.com** and CC **chip@dsa-labs.com** to be added to Sales, Ops, and Marketing meetings.  
 We use **Google Calendar** and **Google Meet** for all sessions.
 
 ---
@@ -155,9 +155,11 @@ We use **Google Calendar** and **Google Meet** for all sessions.
 
 ## DSA Labs Sales Guide
 
+Reference the [StatLink & ImpactCap Sales Package (PDF)](./StatLinkandImpactCapSalesPackage.pdf) regularly for standardized outreach, pitch, demo, and benchmarking.
+
 Reference the [Sales & Customer Success Manual (PDF)](./SalesCustomerSuccessManual.pdf) regularly for scripts, pitches, and workflows.
 
 ---
 
-_Last updated: April 7, 2026_  
+_Last updated: April 23, 2026_  
 _Maintained by: Scott Krotee (Head of Product, DSA Labs)_
