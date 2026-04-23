@@ -37,7 +37,7 @@ Use the channel `#development-new-issues` and follow this format:
 **Expected Behavior:** [Describe what should happen]  
 **Date/Time:** [mm/dd/yyyy hh:mm AM/PM time zone]
 
-📎 [See an example here](./docs/ops/SlackReportingFormat.md)
+📎 [See an example here](./ops/SlackReportingFormat.md)
 
 ---
 
@@ -97,7 +97,7 @@ Use the format below when creating tickets. At a minimum, include **Description*
 **Acceptance Criteria:** [How we’ll know it’s fixed or complete]  
 **Screenshots / Recordings:** [Attach any visuals]
 
-📎 [See an example here](./docs/ops/JiraTicketReportingFormat.md)
+📎 [See an example here](./ops/JiraTicketReportingFormat.md)
 
 > When creating a Jira ticket, **always select the Priority and Parent Issue.**
 
