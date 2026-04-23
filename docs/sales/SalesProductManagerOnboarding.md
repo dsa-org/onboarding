@@ -1,16 +1,28 @@
 [Return to README](../README.md)
 
-# Product Team Onboarding
+# Sales & Product Manager Onboarding
 
-Welcome! Follow these steps to get connected with the Product, Sales, and Operations teams at DSA Labs.
+Welcome! This guide will get you fully connected with Product, Sales, and Operations at DSA Labs—and set you up to drive real impact quickly.
 
 ---
 
-## Slack (primary communication)
+## 🎯 Your Focus (Sales & Product Manager)
 
-- Install Slack on **desktop** and **mobile** (required).
-- Enable **2FA** in Slack.
-- Bookmark the workspace and enable notifications.
+As a Sales & Product Manager, your role sits at the intersection of **customer, product, and engineering**:
+
+- Drive customer conversations and demos
+- Translate customer needs into clear product requirements
+- Create structured Jira tickets and PRDs
+- Align with engineering on priorities and delivery
+- Use StatLink and ImpactCap to support sales and decision-making
+
+---
+
+## Slack (Primary Communication)
+
+- Install Slack on **desktop** and **mobile** (required)
+- Enable **2FA**
+- Bookmark the workspace and enable notifications
 
 ### Join these channels
 
@@ -37,38 +49,38 @@ Use the channel `#development-new-issues` and follow this format:
 **Expected Behavior:** [Describe what should happen]  
 **Date/Time:** [mm/dd/yyyy hh:mm AM/PM time zone]
 
-📎 [See an example here](./ops/SlackReportingFormat.md)
+📎 [See an example here](../ops/SlackReportingFormat.md)
 
 ---
 
-## Product Documentation Templates (PRD / Intake / Build-No-Build)
+## Product Documentation (PRD / Intake / Decisions)
 
-Use these templates **before** creating new Jira epics/features so we stay consistent on scope, success metrics, and tradeoffs.
+Use these templates **before creating Jira epics/features** to ensure clarity and alignment.
 
 ### Templates (Google Drive)
 
 📁 https://drive.google.com/drive/folders/1fqvH7R0npvqKUzYt2NAwG7vXEjG5CPLh
 
 Includes:
-- **PRD Template (Full)**
-- **PRD Template (Lightweight)**
-- **Product Intake Template**
-- **Build / No-Build Decision Template**
+- PRD Template (Full)
+- PRD Template (Lightweight)
+- Product Intake Template
+- Build / No-Build Decision Template
 
 ### When to use what
 
-- **Product Intake** → initial request capture (problem, user, urgency, expected outcome)
-- **Build/No-Build** → quick decision gate (ROI, effort, risks, dependencies)
+- **Product Intake** → initial request capture
+- **Build/No-Build** → quick decision gate (ROI, effort, risk)
 - **Light PRD** → small/medium features (1–2 sprints)
-- **Full PRD** → major features / new modules (multi-sprint, cross-team impact)
+- **Full PRD** → major features (multi-sprint, cross-team)
 
-> After approval: translate the PRD into an Epic + tickets in Jira using the ticket format below.
+> After approval: convert into a Jira Epic + tickets.
 
 ---
 
 ## Jira Access
 
-Email **scott@dsa-labs.com** to request access to Jira and the Kanban board.
+Email **scott@dsa-labs.com** to request access.
 
 **Subject:** `DSA Labs Jira Access`  
 **Body:**  
@@ -81,83 +93,99 @@ Email:
 
 ## Creating a Jira Ticket — Format
 
-Use the format below when creating tickets. At a minimum, include **Description**, **Location**, and **Acceptance Criteria.**
+At minimum include:
+- Description
+- Location
+- Acceptance Criteria
 
-**Description:** [Brief summary of issue or feature]  
+**Description:** [Summary]  
 **Location of Issue:** [Path or URL]  
 **Email of Account:** [If applicable]  
-**Which Team or Profile:** [Team or account]  
+**Which Team or Profile:** [Team/account]  
 **Screen Name and Path:** [Page hierarchy]  
-**Motive:** [User’s motivation or reason]  
-**Description of Issue:** [Details of what occurred]  
-**Expected Behavior:** [What should happen]  
-**Date/Time:** [mm/dd/yyyy hh:mm AM/PM time zone]  
+**Motive:** [User goal]  
+**Description of Issue:** [Details]  
+**Expected Behavior:** [Correct behavior]  
+**Date/Time:** [Timestamp]  
 **Feature:** [Feature affected]  
-**User Impact:** [Describe user impact]  
-**Acceptance Criteria:** [How we’ll know it’s fixed or complete]  
-**Screenshots / Recordings:** [Attach any visuals]
+**User Impact:** [Impact]  
+**Acceptance Criteria:** [Definition of done]  
+**Screenshots / Recordings:** [Attach visuals]
 
-📎 [See an example here](./ops/JiraTicketReportingFormat.md)
+📎 [See an example here](../ops/JiraTicketReportingFormat.md)
 
-> When creating a Jira ticket, **always select the Priority and Parent Issue.**
-
-**Tip:**  
-You can use ChatGPT to help you create Jira tickets quickly.  
-Create a new project (name it “Jira Tickets”) and prompt ChatGPT:  
-> “I am a Product Manager at DSA Labs. This project is dedicated to creating Jira Tickets. Use the provided Jira Ticket Template as the master guide.”  
-Then describe your issue or idea — ChatGPT will help generate consistent Jira tickets.
+> Always select **Priority** and **Parent Issue** in Jira.
 
 ---
 
-## Jira Kanban Workflow
+## Jira Workflow (Kanban)
 
-The Kanban board has six columns:
-1. `READY FOR DEVELOPMENT`
-2. `IN PROGRESS`
-3. `ENGINEERING REVIEW`
-4. `NEEDS TESTING`
-5. `PENDING DEPLOYMENT`
-6. `DONE`
+Columns:
+1. READY FOR DEVELOPMENT  
+2. IN PROGRESS  
+3. ENGINEERING REVIEW  
+4. NEEDS TESTING  
+5. PENDING DEPLOYMENT  
+6. DONE  
 
-### Flow Overview
+### Flow
 
-- PM moves ticket → **READY FOR DEVELOPMENT**
-- Developer moves ticket → **IN PROGRESS**
-- Once complete → move to **ENGINEERING REVIEW** (senior dev review)
-- After approval → move to **NEEDS TESTING**
-  - PM tests on `staging.statlink.io`
-  - If successful → move to **PENDING DEPLOYMENT**
-- Once deployed to production → move to **DONE**
+- PM → READY FOR DEVELOPMENT  
+- Dev → IN PROGRESS  
+- Dev → ENGINEERING REVIEW  
+- PM → NEEDS TESTING (test on staging)  
+- PM → PENDING DEPLOYMENT  
+- Release → DONE  
 
 ---
 
 ## Sales, Ops, and Marketing Meetings
 
-Email **beau@dsa-labs.com** and CC **chip@dsa-labs.com** to be added to Sales, Ops, and Marketing meetings.  
-We use **Google Calendar** and **Google Meet** for all sessions.
+Email **beau@dsa-labs.com** and CC **chip@dsa-labs.com** to be added.
+
+We use:
+- Google Calendar  
+- Google Meet  
 
 ---
 
-## Tools and Domains
+## Tools and Platforms
 
-| Tool / Platform | Description |
-|-----------------|-------------|
-| [StatLink](https://statlink.io/) | Production environment |
-| [StatLink – Staging](https://staging.statlink.io/login/) | Testing/staging environment |
-| [Jira](https://dsalabs.atlassian.net/jira/your-work/) | Project management & issue tracking |
-| [Pipedrive](https://www.pipedrive.com/) | CRM for leads, deals, and pipeline |
-| [Google Analytics](https://analytics.google.com/) | Website and platform analytics |
-| [DSA Labs](https://www.dsa-labs.com/) | Company website |
-| [StatLink Admin Panel](https://api.statlink.io/administration/dashboard) | Admin tools: manage teams, players, and subscriptions |
-| [Canva](https://www.canva.com/) | Preferred design tool for sales, marketing, and social media graphics |
+| Tool | Purpose |
+|------|--------|
+| [StatLink](https://statlink.io/) | Production platform |
+| [StatLink – Staging](https://staging.statlink.io/login/) | Testing environment |
+| [Jira](https://dsalabs.atlassian.net/jira/your-work/) | Project management |
+| [Pipedrive](https://www.pipedrive.com/) | CRM |
+| [Google Analytics](https://analytics.google.com/) | Analytics |
+| [DSA Labs](https://www.dsa-labs.com/) | Website |
+| [StatLink Admin Panel](https://api.statlink.io/administration/dashboard) | Admin tools |
+| [Canva](https://www.canva.com/) | Design |
 
 ---
 
-## DSA Labs Sales Guide
+## Sales Execution (Important)
 
-Reference the [StatLink & ImpactCap Sales Package (PDF)](./StatLinkandImpactCapSalesPackage.pdf) regularly for standardized outreach, pitch, demo, and benchmarking.
+Use these resources to stay consistent in outreach and demos:
 
-Reference the [Sales & Customer Success Manual (PDF)](./SalesCustomerSuccessManual.pdf) regularly for scripts, pitches, and workflows.
+- [StatLink & ImpactCap Sales Package](./StatLinkandImpactCapSalesPackage.pdf)
+- [Sales & Customer Success Manual](./SalesCustomerSuccessManual.pdf)
+
+Focus on:
+- Clear value communication (rankings, valuations, decisions)
+- Fast demos (show, don’t explain)
+- Translating product capabilities into outcomes
+
+---
+
+## ⚡ Final Note
+
+DSA Labs is built on:
+**clarity, speed, and execution**
+
+If something is unclear or missing:
+- Post in Slack (`#dsa-labs`)
+- Or message [scott@dsa-labs.com](mailto:scott@dsa-labs.com)
 
 ---
 

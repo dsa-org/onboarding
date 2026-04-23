@@ -2,26 +2,42 @@
 
 # Developer Onboarding
 
-Welcome! Follow these steps in order. If anything is unclear, ask in `#development-discussion`.
+Welcome! This guide will get you set up and contributing to DSA Labs as quickly as possible.
+
+If anything is unclear, ask in `#development-discussion`.
 
 ---
 
-## Slack (primary communications)
-- Install Slack on **desktop** and **mobile** (required).
-- Enable **2FA** in Slack (required).
+## 🎯 Your Focus (Developer)
+
+As a developer at DSA Labs, your role is to:
+
+- Build and improve StatLink and ImpactCap features
+- Resolve bugs and maintain system reliability
+- Collaborate with Product on scoped tickets
+- Ship clean, tested code to staging and production
+
+---
+
+## Slack (Primary Communication)
+
+- Install Slack on **desktop** and **mobile** (required)
+- Enable **2FA**
 - Join these channels:
-  - `#development-discussion` — general dev chat / questions
-  - `#development-staging-issues` — staging deploys & verifications
-  - `#development-new-issues` — bug reports / regressions
-  - `#product-development` — roadmaps & priorities
+
+- `#development-discussion` — questions, blockers, coordination  
+- `#development-staging-issues` — deploys & verification  
+- `#development-new-issues` — bugs & regressions  
+- `#product-development` — roadmap & priorities  
 
 ---
 
-## Jira access
-Email **scott@dsa-labs.com** and CC **bobby@dsa-labs.com** to request Jira + Kanban access.
+## Jira Access
+
+Email **scott@dsa-labs.com** and CC **bobby@dsa-labs.com** to request access.
 
 **Subject:** `DSA Labs Jira Access`  
-**Body:**
+**Body:**  
 Please invite me to the DSA Labs Jira project and Kanban board.  
 Name:  
 Role:  
@@ -29,79 +45,133 @@ Preferred email:
 
 ---
 
-## Standup meetings
-Email **scott@dsa-labs.com** to be added to **M/W/F 12:00 PM ET** standups (Google Calendar + Meet).
+## Standup Meetings
+
+Email **scott@dsa-labs.com** to be added to:
+
+- **M/W/F 12:00 PM ET** (Google Calendar + Meet)
 
 **Subject:** `Add me to Dev Standups (M/W/F 12PM ET)`  
 **Body:**  
-Please add me to the M/W/F 12PM ET dev standups.  
+Please add me to dev standups.  
 Name:  
-Email (for invite):  
+Email:  
 Time zone:  
 
 ---
 
-## Required tools
+## Required Tools
+
 - [VS Code](https://code.visualstudio.com/) — primary IDE  
 - [Git](https://git-scm.com/) / [GitHub Desktop](https://desktop.github.com/download/) — version control  
-- [Python](https://www.python.org/downloads/) (3.11+) — backend tooling & scripts  
-- [DB Browser for SQLite](https://sqlitebrowser.org/) — local DB inspection  
-- [pgAdmin](https://www.pgadmin.org/) — staging/prod Postgres access  
-- [Docker](https://www.docker.com/) — local services; Django + websockets  
-- [Microsoft Visual Studio C++ Build Tools](https://visualstudio.microsoft.com/downloads/?q=build+tools) — native deps on Windows
+- [Python](https://www.python.org/downloads/) (3.11+) — backend  
+- [DB Browser for SQLite](https://sqlitebrowser.org/) — local DB  
+- [pgAdmin](https://www.pgadmin.org/) — staging/prod DB  
+- [Docker](https://www.docker.com/) — local services  
+- [MS C++ Build Tools](https://visualstudio.microsoft.com/downloads/?q=build+tools) — Windows dependencies  
 
-> Enable **2FA** on **GitHub** and **Google** before requesting repo access.
-
----
-
-## Design reference
-UI rehaul in progress (under construction). Ask Product for current mocks and component guidance.
+> Enable **2FA** on GitHub and Google before requesting access.
 
 ---
 
-## Tutorials (skim if new to stack)
-- [Getting started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)  
-- [How to set up a Django application](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)  
-- [Using DB Browser for SQLite](https://datacarpentry.org/sql-socialsci/02-db-browser.html)
+## GitHub Access
 
----
-
-## GitHub access request
-After completing the steps above, email **bobby@dsa-labs.com** (CC **scott@dsa-labs.com**):
+After completing setup, email **bobby@dsa-labs.com** (CC **scott@dsa-labs.com**):
 
 **Subject:** `StatLink GitHub Access`  
+
 **Body:**  
 Please invite me to the GitHub org and repos:  
 - dsa (backend)  
 - dsa-frontend (frontend)  
 
 GitHub username:  
-Email used for GitHub:  
+Email:  
 
 ---
 
-## Repos & first steps
+## Repos & First Steps
 
 ### `dsa` (backend)
-- Open `/docs/README.md` in the repo and follow environment setup.  
-- Ask in `#development-discussion` for the `.env` template. **Never commit secrets.**
+
+- Open `/docs/README.md` and complete environment setup  
+- Request `.env` template in Slack (**never commit secrets**)  
+- Confirm you can:
+  - Run the backend locally  
+  - Hit core endpoints  
+
+---
 
 ### `dsa-frontend`
-- Work in progress. Ask in `#development-discussion` for current setup and tasks.
+
+- Work in progress  
+- Ask in `#development-discussion` for:
+  - Setup steps  
+  - Current priorities  
 
 ---
 
-## Conventions (must read)
-- **Secrets:** Use `.env` files or approved secrets managers. **Do not** commit secrets.  
+## 🚀 First Task (Do This Early)
+
+Before taking on large work:
+
+- Pick a **small Jira ticket**
+- Run through:
+  - Branch → commit → PR → review → staging
+- Confirm you can:
+  - Push code  
+  - Open a PR  
+  - See changes in staging  
+
+👉 This validates your full workflow end-to-end.
+
+---
+
+## Conventions (Must Follow)
+
+- **Secrets:** Use `.env` or approved managers. Never commit secrets  
 - **Branches:** `feature/<short-name>`, `bugfix/<short-name>`, `hotfix/<short-name>`  
-- **Commits:** Conventional style (`feat: …`, `fix: …`, `chore: …`) + include JIRA ticket (e.g., `feat: add player filter [DL-123]`)  
-- **PRs:** Small, focused; include description, screenshots for UI, testing notes, and linked JIRA ticket  
-- **Reviews:** ≥1 reviewer; verify on **staging** before merge to `main`
+- **Commits:**  
+  - Use conventional style (`feat:`, `fix:`, `chore:`)  
+  - **Include JIRA ticket ID**  
+  - Example: `fix: resolve ranking bug [DL-123]`  
+
+- **PRs:**  
+  - Small and focused  
+  - Include:
+    - Description  
+    - Screenshots (if UI)  
+    - Testing notes  
+    - Linked JIRA ticket  
+
+- **Reviews:**  
+  - ≥1 reviewer required  
+  - Must verify on **staging** before merge  
 
 ---
 
-## Need help?
-Post in `#development-discussion` or email **scott@dsa-labs.com**.
+## Design + Product Alignment
+
+UI is evolving. Before building:
+
+- Confirm designs with Product
+- Align on expected behavior
+- Avoid building based on assumptions
+
+---
+
+## Tutorials (Optional)
+
+- [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)  
+- [Django Tutorial](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)  
+- [SQLite Browser Guide](https://datacarpentry.org/sql-socialsci/02-db-browser.html)
+
+---
+
+## Need Help?
+
+- Post in `#development-discussion`
+- Or email **scott@dsa-labs.com**
 
 ---
 
