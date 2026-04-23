@@ -97,7 +97,7 @@ Use the format below when creating tickets. At a minimum, include **Description*
 **Acceptance Criteria:** [How we’ll know it’s fixed or complete]  
 **Screenshots / Recordings:** [Attach any visuals]
 
-📎 [See an example here](.docs/ops/JiraTicketReportingFormat.md)
+📎 [See an example here](./docs/ops/JiraTicketReportingFormat.md)
 
 > When creating a Jira ticket, **always select the Priority and Parent Issue.**
 
