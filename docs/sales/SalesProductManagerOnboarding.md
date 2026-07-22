@@ -53,6 +53,31 @@ Use the channel `#development-new-issues` and follow this format:
 
 ---
 
+## Customer Support Requests
+
+Customer support questions should be submitted in the **#support-request** Slack channel.
+
+Before escalating a request to Product or Engineering, gather as much context as possible so the issue can be investigated efficiently.
+
+Include the following whenever possible:
+
+- Customer / Team
+- Environment (Production or Staging)
+- Page / Feature
+- User's Goal
+- Exact Question or Issue
+- Steps to Reproduce
+- Expected Behavior
+- Actual Behavior
+- Screenshot or Screen Recording
+- Priority
+
+📎 **Reference:** [Customer Support Request Intake SOP](../ops/CustomerSupportRequestIntake.md)
+
+Providing complete information upfront reduces back-and-forth communication, helps reproduce issues more quickly, and allows us to provide faster, more accurate responses to our customers.
+
+---
+
 ## Product Documentation (PRD / Intake / Decisions)
 
 Use these templates **before creating Jira epics/features** to ensure clarity and alignment.

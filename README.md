@@ -20,11 +20,20 @@ We are excited to have you with us. This documentation is for getting you fully 
 
 ## Additional Resources
 
+### Administration
 - [Offboarding Guide](docs/admin/Offboarding.md) — Steps to follow when a team member transitions out to ensure all access and assets are properly handed off.
 - [Team Tracker](docs/admin/TeamTracker.md) — Central record of all current and former team members, including system access and responsibilities.
-- [Slack Reporting Format](docs/ops/SlackReportingFormat.md) — How to share updates, QA reports, and ticket notes in our standard Slack format.
+
+### Operations
+- [Customer Support Request Intake](docs/ops/CustomerSupportRequestIntake.md) — Standard process for submitting customer support questions, bug reports, and troubleshooting requests.
 - [JIRA Ticket Reporting Format](docs/ops/JiraTicketReportingFormat.md) — Template and examples for writing clear, reproducible issue reports.
-- [DSA Meeting Cadence](docs/ops/DSAMeetingCadence.xlsx) — Defines our recurring internal meeting structure, ownership, and time expectations to keep product, engineering, and sales aligned.
+- [Slack Reporting Format](docs/ops/SlackReportingFormat.md) — How to share updates, QA reports, and ticket notes in our standard Slack format.
+- [DSA Meeting Cadence](docs/ops/DSAMeetingCadence.xlsx) — Defines our recurring internal meeting structure, ownership, and meeting cadence.
+
+### Product
+- [StatLink Quick Start](docs/product/StatLinkQuickStart.pdf)
+- [ImpactCap Quick Start](docs/product/ImpactCapQuickStart.pdf)
+- [StatLink Runthrough](docs/product/StatLinkRunthrough.md)
 
 ---
 
@@ -35,5 +44,5 @@ If something is unclear or missing from this documentation, please flag it in Sl
 
 ---
 
-_Last updated: April 23, 2026_  
+_Last updated: July 22, 2026_
 _Maintained by: Scott Krotee (Head of Product, DSA Labs)_
