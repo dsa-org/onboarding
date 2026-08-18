@@ -31,8 +31,8 @@ We are excited to have you with us. This documentation is for getting you fully 
 - [DSA Meeting Cadence](docs/ops/DSAMeetingCadence.xlsx) — Defines our recurring internal meeting structure, ownership, and meeting cadence.
 
 ### Product
-- [StatLink Quick Start](docs/product/StatLinkQuickStart.pdf)
-- [ImpactCap Quick Start](docs/product/ImpactCapQuickStart.pdf)
+- [StatLink Quick Start](docs/product/StatLink%20Quick%20Start%20Guide.pdf)
+- [ImpactCap Quick Start](docs/product/ImpactCap%20Quick%20Start%20Guide.pdf)
 - [StatLink Runthrough](docs/product/StatLinkRunthrough.md)
 
 ---
@@ -44,5 +44,5 @@ If something is unclear or missing from this documentation, please flag it in Sl
 
 ---
 
-_Last updated: July 22, 2026_
+_Last updated: August 18, 2026_
 _Maintained by: Scott Krotee (Head of Product, DSA Labs)_
